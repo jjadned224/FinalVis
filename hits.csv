@@ -1,0 +1,1781 @@
+Faction,Army,Unit,Weapon,Hits,Damage
+Xenos,Aeldari,Starweaver,Lascannon,2,14
+Xenos,Aeldari,Starweaver,melta,1,8
+Xenos,Aeldari,Starweaver,plasma,5,10
+Xenos,Aeldari,Starweaver,Bolter,3,3
+Xenos,Aeldari,Starweaver,missile,3,18
+Xenos,Aeldari,Wave Serpent,Lascannon,1,7
+Xenos,Aeldari,Wave Serpent,melta,2,16
+Xenos,Aeldari,Wave Serpent,plasma,4,8
+Xenos,Aeldari,Wave Serpent,Bolter,4,4
+Xenos,Aeldari,Wave Serpent,missile,1,6
+Xenos,Aeldari,crimson hunter,Lascannon,3,21
+Xenos,Aeldari,crimson hunter,melta,1,8
+Xenos,Aeldari,crimson hunter,plasma,6,12
+Xenos,Aeldari,crimson hunter,Bolter,7,7
+Xenos,Aeldari,crimson hunter,missile,3,18
+Xenos,Aeldari,Falcon,Lascannon,0,0
+Xenos,Aeldari,Falcon,melta,0,0
+Xenos,Aeldari,Falcon,plasma,0,0
+Xenos,Aeldari,Falcon,Bolter,2,2
+Xenos,Aeldari,Falcon,missile,0,0
+Xenos,Aeldari,Fire prism,Lascannon,0,0
+Xenos,Aeldari,Fire prism,melta,0,0
+Xenos,Aeldari,Fire prism,plasma,0,0
+Xenos,Aeldari,Fire prism,Bolter,1,1
+Xenos,Aeldari,Fire prism,missile,0,0
+Xenos,Aeldari,hemlock wraithfighter,Lascannon,0,0
+Xenos,Aeldari,hemlock wraithfighter,melta,0,0
+Xenos,Aeldari,hemlock wraithfighter,plasma,0,0
+Xenos,Aeldari,hemlock wraithfighter,Bolter,1,1
+Xenos,Aeldari,hemlock wraithfighter,missile,0,0
+Xenos,Aeldari,night spinner,Lascannon,0,0
+Xenos,Aeldari,night spinner,melta,0,0
+Xenos,Aeldari,night spinner,plasma,0,0
+Xenos,Aeldari,night spinner,Bolter,1,1
+Xenos,Aeldari,night spinner,missile,0,0
+Xenos,Aeldari,support weapons,Lascannon,0,0
+Xenos,Aeldari,support weapons,melta,0,0
+Xenos,Aeldari,support weapons,plasma,0,0
+Xenos,Aeldari,support weapons,Bolter,4,4
+Xenos,Aeldari,support weapons,missile,0,0
+Xenos,Aeldari,voidweaver,Lascannon,3,21
+Xenos,Aeldari,voidweaver,melta,2,16
+Xenos,Aeldari,voidweaver,plasma,3,6
+Xenos,Aeldari,voidweaver,Bolter,2,2
+Xenos,Aeldari,voidweaver,missile,2,12
+Xenos,Aeldari,vyper,Lascannon,0,0
+Xenos,Aeldari,vyper,melta,0,0
+Xenos,Aeldari,vyper,plasma,0,0
+Xenos,Aeldari,vyper,Bolter,2,2
+Xenos,Aeldari,vyper,missile,0,0
+Xenos,Aeldari,war walker,Lascannon,0,0
+Xenos,Aeldari,war walker,melta,0,0
+Xenos,Aeldari,war walker,plasma,3,6
+Xenos,Aeldari,war walker,Bolter,4,4
+Xenos,Aeldari,war walker,missile,2,12
+Xenos,Aeldari,wraithknight,Lascannon,1,7
+Xenos,Aeldari,wraithknight,melta,2,16
+Xenos,Aeldari,wraithknight,plasma,3,6
+Xenos,Aeldari,wraithknight,Bolter,3,3
+Xenos,Aeldari,wraithknight,missile,3,18
+Xenos,Aeldari,wraithlord,Lascannon,0,0
+Xenos,Aeldari,wraithlord,melta,0,0
+Xenos,Aeldari,wraithlord,plasma,0,0
+Xenos,Aeldari,wraithlord,Bolter,0,0
+Xenos,Aeldari,wraithlord,missile,0,0
+Xenos,Aeldari,Avatar of khaine,Lascannon,0,0
+Xenos,Aeldari,Avatar of khaine,melta,1,8
+Xenos,Aeldari,Avatar of khaine,plasma,6,12
+Xenos,Aeldari,Avatar of khaine,Bolter,4,4
+Xenos,Aeldari,Avatar of khaine,missile,3,18
+Xenos,Aeldari,The Yncarne,Lascannon,1,7
+Xenos,Aeldari,The Yncarne,melta,2,16
+Xenos,Aeldari,The Yncarne,plasma,6,12
+Xenos,Aeldari,The Yncarne,Bolter,3,3
+Xenos,Aeldari,The Yncarne,missile,3,18
+Xenos,Aeldari,cobra,Lascannon,3,21
+Xenos,Aeldari,cobra,melta,3,24
+Xenos,Aeldari,cobra,plasma,3,6
+Xenos,Aeldari,cobra,Bolter,5,5
+Xenos,Aeldari,cobra,missile,1,6
+Xenos,Aeldari,hornet,Lascannon,0,0
+Xenos,Aeldari,hornet,melta,0,0
+Xenos,Aeldari,hornet,plasma,0,0
+Xenos,Aeldari,hornet,Bolter,4,4
+Xenos,Aeldari,hornet,missile,0,0
+Xenos,Aeldari,lynx,Lascannon,4,28
+Xenos,Aeldari,lynx,melta,1,8
+Xenos,Aeldari,lynx,plasma,4,8
+Xenos,Aeldari,lynx,Bolter,3,3
+Xenos,Aeldari,lynx,missile,2,12
+Xenos,Aeldari,nightwing,Lascannon,2,14
+Xenos,Aeldari,nightwing,melta,2,16
+Xenos,Aeldari,nightwing,plasma,3,6
+Xenos,Aeldari,nightwing,Bolter,2,2
+Xenos,Aeldari,nightwing,missile,2,12
+Xenos,Aeldari,phantom titan,Lascannon,3,21
+Xenos,Aeldari,phantom titan,melta,1,8
+Xenos,Aeldari,phantom titan,plasma,6,12
+Xenos,Aeldari,phantom titan,Bolter,4,4
+Xenos,Aeldari,phantom titan,missile,2,12
+Xenos,Aeldari,revenant titan,Lascannon,0,0
+Xenos,Aeldari,revenant titan,melta,0,0
+Xenos,Aeldari,revenant titan,plasma,4,8
+Xenos,Aeldari,revenant titan,Bolter,3,3
+Xenos,Aeldari,revenant titan,missile,0,0
+Xenos,Aeldari,scorpion,Lascannon,3,21
+Xenos,Aeldari,scorpion,melta,1,8
+Xenos,Aeldari,scorpion,plasma,6,12
+Xenos,Aeldari,scorpion,Bolter,5,5
+Xenos,Aeldari,scorpion,missile,2,12
+Xenos,Aeldari,skathach wraithknight,Lascannon,1,7
+Xenos,Aeldari,skathach wraithknight,melta,3,24
+Xenos,Aeldari,skathach wraithknight,plasma,4,8
+Xenos,Aeldari,skathach wraithknight,Bolter,2,2
+Xenos,Aeldari,skathach wraithknight,missile,1,6
+Xenos,Aeldari,wrap hunter,Lascannon,0,0
+Xenos,Aeldari,wrap hunter,melta,0,0
+Xenos,Aeldari,wrap hunter,plasma,0,0
+Xenos,Aeldari,wrap hunter,Bolter,4,4
+Xenos,Aeldari,wrap hunter,missile,0,0
+Xenos,Aeldari,wraithseer,Lascannon,0,0
+Xenos,Aeldari,wraithseer,melta,1,8
+Xenos,Aeldari,wraithseer,plasma,4,8
+Xenos,Aeldari,wraithseer,Bolter,5,5
+Xenos,Aeldari,wraithseer,missile,1,6
+Xenos,Drunkhari,raider,Lascannon,2,14
+Xenos,Drunkhari,raider,melta,2,16
+Xenos,Drunkhari,raider,plasma,4,8
+Xenos,Drunkhari,raider,Bolter,7,7
+Xenos,Drunkhari,raider,missile,3,18
+Xenos,Drunkhari,venmo,Lascannon,3,21
+Xenos,Drunkhari,venmo,melta,3,24
+Xenos,Drunkhari,venmo,plasma,4,8
+Xenos,Drunkhari,venmo,Bolter,6,6
+Xenos,Drunkhari,venmo,missile,5,30
+Xenos,Drunkhari,cronos,Lascannon,3,12
+Xenos,Drunkhari,cronos,melta,3,20
+Xenos,Drunkhari,cronos,plasma,4,6
+Xenos,Drunkhari,cronos,Bolter,4,3
+Xenos,Drunkhari,cronos,missile,5,20
+Xenos,Drunkhari,ravenger,Lascannon,4,28
+Xenos,Drunkhari,ravenger,melta,3,24
+Xenos,Drunkhari,ravenger,plasma,7,14
+Xenos,Drunkhari,ravenger,Bolter,5,5
+Xenos,Drunkhari,ravenger,missile,4,24
+Xenos,Drunkhari,razorwing jetfighter,Lascannon,2,14
+Xenos,Drunkhari,razorwing jetfighter,melta,3,24
+Xenos,Drunkhari,razorwing jetfighter,plasma,6,12
+Xenos,Drunkhari,razorwing jetfighter,Bolter,7,7
+Xenos,Drunkhari,razorwing jetfighter,missile,4,24
+Xenos,Drunkhari,talos,Lascannon,2,8
+Xenos,Drunkhari,talos,melta,2,10
+Xenos,Drunkhari,talos,plasma,6,6
+Xenos,Drunkhari,talos,Bolter,5,3
+Xenos,Drunkhari,talos,missile,4,12
+Xenos,Drunkhari,voidraven bomber,Lascannon,4,28
+Xenos,Drunkhari,voidraven bomber,melta,3,24
+Xenos,Drunkhari,voidraven bomber,plasma,3,6
+Xenos,Drunkhari,voidraven bomber,Bolter,8,8
+Xenos,Drunkhari,voidraven bomber,missile,3,18
+Xenos,Drunkhari,tantalus,Lascannon,3,21
+Xenos,Drunkhari,tantalus,melta,2,16
+Xenos,Drunkhari,tantalus,plasma,4,8
+Xenos,Drunkhari,tantalus,Bolter,4,4
+Xenos,Drunkhari,tantalus,missile,3,18
+Xenos,genestealer cults,goliath truck,Lascannon,0,0
+Xenos,genestealer cults,goliath truck,melta,0,0
+Xenos,genestealer cults,goliath truck,plasma,0,0
+Xenos,genestealer cults,goliath truck,Bolter,3,3
+Xenos,genestealer cults,goliath truck,missile,0,0
+Xenos,genestealer cults,achilles ridgerunners,Lascannon,0,0
+Xenos,genestealer cults,achilles ridgerunners,melta,0,0
+Xenos,genestealer cults,achilles ridgerunners,plasma,0,0
+Xenos,genestealer cults,achilles ridgerunners,Bolter,4,4
+Xenos,genestealer cults,achilles ridgerunners,missile,0,0
+Xenos,genestealer cults,goliath rockgrinder,Lascannon,0,0
+Xenos,genestealer cults,goliath rockgrinder,melta,0,0
+Xenos,genestealer cults,goliath rockgrinder,plasma,0,0
+Xenos,genestealer cults,goliath rockgrinder,Bolter,0,0
+Xenos,genestealer cults,goliath rockgrinder,missile,0,0
+Xenos,leagues of voltann,sagitaur,Lascannon,0,0
+Xenos,leagues of voltann,sagitaur,melta,0,0
+Xenos,leagues of voltann,sagitaur,plasma,0,0
+Xenos,leagues of voltann,sagitaur,Bolter,3,3
+Xenos,leagues of voltann,sagitaur,missile,0,0
+Xenos,leagues of voltann,hekaton land fortress,Lascannon,0,0
+Xenos,leagues of voltann,hekaton land fortress,melta,0,0
+Xenos,leagues of voltann,hekaton land fortress,plasma,0,0
+Xenos,leagues of voltann,hekaton land fortress,Bolter,1,1
+Xenos,leagues of voltann,hekaton land fortress,missile,0,0
+Xenos,necrons,C'tan shard of the deciever,Lascannon,2,8
+Xenos,necrons,C'tan shard of the deciever,melta,1,4
+Xenos,necrons,C'tan shard of the deciever,plasma,4,4
+Xenos,necrons,C'tan shard of the deciever,Bolter,3,2
+Xenos,necrons,C'tan shard of the deciever,missile,0,0
+Xenos,necrons,C'tan shard of the nightbringer,Lascannon,4,20
+Xenos,necrons,C'tan shard of the nightbringer,melta,0,0
+Xenos,necrons,C'tan shard of the nightbringer,plasma,6,6
+Xenos,necrons,C'tan shard of the nightbringer,Bolter,2,2
+Xenos,necrons,C'tan shard of the nightbringer,missile,2,11
+Xenos,necrons,C'tan shard of the void dragon,Lascannon,2,8
+Xenos,necrons,C'tan shard of the void dragon,melta,3,12
+Xenos,necrons,C'tan shard of the void dragon,plasma,4,5
+Xenos,necrons,C'tan shard of the void dragon,Bolter,4,3
+Xenos,necrons,C'tan shard of the void dragon,missile,1,5
+Xenos,necrons,catacomb command barge,Lascannon,1,7
+Xenos,necrons,catacomb command barge,melta,0,0
+Xenos,necrons,catacomb command barge,plasma,5,10
+Xenos,necrons,catacomb command barge,Bolter,3,3
+Xenos,necrons,catacomb command barge,missile,3,18
+Xenos,necrons,The silent king,Lascannon,3,21
+Xenos,necrons,The silent king,melta,1,8
+Xenos,necrons,The silent king,plasma,1,2
+Xenos,necrons,The silent king,Bolter,3,3
+Xenos,necrons,The silent king,missile,3,18
+Xenos,necrons,Transcendent c'tan,Lascannon,2,10
+Xenos,necrons,Transcendent c'tan,melta,1,7
+Xenos,necrons,Transcendent c'tan,plasma,2,3
+Xenos,necrons,Transcendent c'tan,Bolter,4,2
+Xenos,necrons,Transcendent c'tan,missile,2,8
+Xenos,necrons,ghost ark,Lascannon,2,14
+Xenos,necrons,ghost ark,melta,1,8
+Xenos,necrons,ghost ark,plasma,5,10
+Xenos,necrons,ghost ark,Bolter,3,3
+Xenos,necrons,ghost ark,missile,4,24
+Xenos,necrons,anihilator barge,Lascannon,2,14
+Xenos,necrons,anihilator barge,melta,1,8
+Xenos,necrons,anihilator barge,plasma,5,10
+Xenos,necrons,anihilator barge,Bolter,4,4
+Xenos,necrons,anihilator barge,missile,2,12
+Xenos,necrons,canoptek doomstalker,Lascannon,3,21
+Xenos,necrons,canoptek doomstalker,melta,4,32
+Xenos,necrons,canoptek doomstalker,plasma,5,10
+Xenos,necrons,canoptek doomstalker,Bolter,2,2
+Xenos,necrons,canoptek doomstalker,missile,2,12
+Xenos,necrons,canoptek reanimator,Lascannon,0,0
+Xenos,necrons,canoptek reanimator,melta,0,0
+Xenos,necrons,canoptek reanimator,plasma,0,0
+Xenos,necrons,canoptek reanimator,Bolter,2,0
+Xenos,necrons,canoptek reanimator,missile,0,0
+Xenos,necrons,canoptek spyders,Lascannon,0,0
+Xenos,necrons,canoptek spyders,melta,0,0
+Xenos,necrons,canoptek spyders,plasma,0,0
+Xenos,necrons,canoptek spyders,Bolter,1,1
+Xenos,necrons,canoptek spyders,missile,0,0
+Xenos,necrons,doom scythe,Lascannon,0,0
+Xenos,necrons,doom scythe,melta,0,0
+Xenos,necrons,doom scythe,plasma,0,0
+Xenos,necrons,doom scythe,Bolter,4,4
+Xenos,necrons,doom scythe,missile,0,0
+Xenos,necrons,doomsday ark,Lascannon,1,7
+Xenos,necrons,doomsday ark,melta,1,8
+Xenos,necrons,doomsday ark,plasma,0,0
+Xenos,necrons,doomsday ark,Bolter,3,3
+Xenos,necrons,doomsday ark,missile,2,12
+Xenos,necrons,monolith,Lascannon,0,0
+Xenos,necrons,monolith,melta,0,0
+Xenos,necrons,monolith,plasma,0,0
+Xenos,necrons,monolith,Bolter,2,2
+Xenos,necrons,monolith,missile,0,0
+Xenos,necrons,night scythe,Lascannon,0,0
+Xenos,necrons,night scythe,melta,0,0
+Xenos,necrons,night scythe,plasma,0,0
+Xenos,necrons,night scythe,Bolter,4,4
+Xenos,necrons,night scythe,missile,0,0
+Xenos,necrons,obelisk,Lascannon,0,0
+Xenos,necrons,obelisk,melta,0,0
+Xenos,necrons,obelisk,plasma,0,0
+Xenos,necrons,obelisk,Bolter,3,3
+Xenos,necrons,obelisk,missile,0,0
+Xenos,necrons,Tesseract vault,Lascannon,1,7
+Xenos,necrons,Tesseract vault,melta,3,24
+Xenos,necrons,Tesseract vault,plasma,4,8
+Xenos,necrons,Tesseract vault,Bolter,2,2
+Xenos,necrons,Tesseract vault,missile,2,12
+Xenos,necrons,triarch stalker,Lascannon,1,7
+Xenos,necrons,triarch stalker,melta,1,8
+Xenos,necrons,triarch stalker,plasma,3,6
+Xenos,necrons,triarch stalker,Bolter,4,4
+Xenos,necrons,triarch stalker,missile,0,0
+Xenos,necrons,seraptek heavy construct,Lascannon,1,7
+Xenos,necrons,seraptek heavy construct,melta,1,8
+Xenos,necrons,seraptek heavy construct,plasma,4,8
+Xenos,necrons,seraptek heavy construct,Bolter,4,4
+Xenos,necrons,seraptek heavy construct,missile,2,12
+Xenos,orks,trukk,Lascannon,1,7
+Xenos,orks,trukk,melta,3,24
+Xenos,orks,trukk,plasma,4,8
+Xenos,orks,trukk,Bolter,7,7
+Xenos,orks,trukk,missile,2,12
+Xenos,orks,battlewagon,Lascannon,3,21
+Xenos,orks,battlewagon,melta,4,32
+Xenos,orks,battlewagon,plasma,5,10
+Xenos,orks,battlewagon,Bolter,5,5
+Xenos,orks,battlewagon,missile,2,12
+Xenos,orks,boomdakka snazzwagon,Lascannon,3,21
+Xenos,orks,boomdakka snazzwagon,melta,4,32
+Xenos,orks,boomdakka snazzwagon,plasma,7,14
+Xenos,orks,boomdakka snazzwagon,Bolter,2,2
+Xenos,orks,boomdakka snazzwagon,missile,4,24
+Xenos,orks,burna-bommer,Lascannon,1,7
+Xenos,orks,burna-bommer,melta,3,24
+Xenos,orks,burna-bommer,plasma,7,14
+Xenos,orks,burna-bommer,Bolter,3,3
+Xenos,orks,burna-bommer,missile,2,12
+Xenos,orks,dakkajet,Lascannon,4,28
+Xenos,orks,dakkajet,melta,4,32
+Xenos,orks,dakkajet,plasma,7,14
+Xenos,orks,dakkajet,Bolter,7,7
+Xenos,orks,dakkajet,missile,3,18
+Xenos,orks,deff dread,Lascannon,2,14
+Xenos,orks,deff dread,melta,2,16
+Xenos,orks,deff dread,plasma,4,8
+Xenos,orks,deff dread,Bolter,8,8
+Xenos,orks,deff dread,missile,0,0
+Xenos,orks,deffkoptas,Lascannon,3,21
+Xenos,orks,deffkoptas,melta,0,0
+Xenos,orks,deffkoptas,plasma,7,14
+Xenos,orks,deffkoptas,Bolter,6,6
+Xenos,orks,deffkoptas,missile,3,18
+Xenos,orks,gorkanaut,Lascannon,4,28
+Xenos,orks,gorkanaut,melta,0,0
+Xenos,orks,gorkanaut,plasma,6,12
+Xenos,orks,gorkanaut,Bolter,3,3
+Xenos,orks,gorkanaut,missile,1,6
+Xenos,orks,hunta rig,Lascannon,0,0
+Xenos,orks,hunta rig,melta,0,0
+Xenos,orks,hunta rig,plasma,0,0
+Xenos,orks,hunta rig,Bolter,2,1
+Xenos,orks,hunta rig,missile,0,0
+Xenos,orks,kill rig,Lascannon,0,0
+Xenos,orks,kill rig,melta,0,0
+Xenos,orks,kill rig,plasma,0,0
+Xenos,orks,kill rig,Bolter,2,2
+Xenos,orks,kill rig,missile,0,0
+Xenos,orks,killa kans,Lascannon,2,14
+Xenos,orks,killa kans,melta,3,24
+Xenos,orks,killa kans,plasma,5,10
+Xenos,orks,killa kans,Bolter,3,3
+Xenos,orks,killa kans,missile,3,18
+Xenos,orks,kustoms boosta-blasta,Lascannon,1,7
+Xenos,orks,kustoms boosta-blasta,melta,3,24
+Xenos,orks,kustoms boosta-blasta,plasma,5,10
+Xenos,orks,kustoms boosta-blasta,Bolter,2,2
+Xenos,orks,kustoms boosta-blasta,missile,2,12
+Xenos,orks,megatrakk scrapjet,Lascannon,3,21
+Xenos,orks,megatrakk scrapjet,melta,3,24
+Xenos,orks,megatrakk scrapjet,plasma,3,6
+Xenos,orks,megatrakk scrapjet,Bolter,5,5
+Xenos,orks,megatrakk scrapjet,missile,3,18
+Xenos,orks,mek gunz,Lascannon,2,14
+Xenos,orks,mek gunz,melta,2,16
+Xenos,orks,mek gunz,plasma,7,14
+Xenos,orks,mek gunz,Bolter,4,4
+Xenos,orks,mek gunz,missile,2,12
+Xenos,orks,morkanaut,Lascannon,4,28
+Xenos,orks,morkanaut,melta,0,0
+Xenos,orks,morkanaut,plasma,5,10
+Xenos,orks,morkanaut,Bolter,4,4
+Xenos,orks,morkanaut,missile,3,18
+Xenos,orks,Rukkatrukk Squigbuggy,Lascannon,4,28
+Xenos,orks,Rukkatrukk Squigbuggy,melta,2,16
+Xenos,orks,Rukkatrukk Squigbuggy,plasma,6,12
+Xenos,orks,Rukkatrukk Squigbuggy,Bolter,4,4
+Xenos,orks,Rukkatrukk Squigbuggy,missile,4,24
+Xenos,orks,Shokkjump Dragsta,Lascannon,1,7
+Xenos,orks,Shokkjump Dragsta,melta,3,24
+Xenos,orks,Shokkjump Dragsta,plasma,7,14
+Xenos,orks,Shokkjump Dragsta,Bolter,7,7
+Xenos,orks,Shokkjump Dragsta,missile,4,24
+Xenos,orks,Stompa,Lascannon,3,21
+Xenos,orks,Stompa,melta,3,24
+Xenos,orks,Stompa,plasma,5,10
+Xenos,orks,Stompa,Bolter,8,8
+Xenos,orks,Stompa,missile,4,24
+Xenos,orks,wazbom blastajet,Lascannon,2,14
+Xenos,orks,wazbom blastajet,melta,3,24
+Xenos,orks,wazbom blastajet,plasma,3,6
+Xenos,orks,wazbom blastajet,Bolter,7,7
+Xenos,orks,wazbom blastajet,missile,4,24
+Xenos,orks,gargantuan squiggoth,Lascannon,0,0
+Xenos,orks,gargantuan squiggoth,melta,0,0
+Xenos,orks,gargantuan squiggoth,plasma,0,0
+Xenos,orks,gargantuan squiggoth,Bolter,0,0
+Xenos,orks,gargantuan squiggoth,missile,0,0
+Xenos,T'au,Commander Farsight,Lascannon,0,0
+Xenos,T'au,Commander Farsight,melta,2,16
+Xenos,T'au,Commander Farsight,plasma,3,6
+Xenos,T'au,Commander Farsight,Bolter,5,5
+Xenos,T'au,Commander Farsight,missile,2,12
+Xenos,T'au,Commander in Coldstart Battlesuit,Lascannon,3,21
+Xenos,T'au,Commander in Coldstart Battlesuit,melta,1,8
+Xenos,T'au,Commander in Coldstart Battlesuit,plasma,5,10
+Xenos,T'au,Commander in Coldstart Battlesuit,Bolter,6,6
+Xenos,T'au,Commander in Coldstart Battlesuit,missile,0,0
+Xenos,T'au,Commander in Enforcer Battlesuit,Lascannon,1,7
+Xenos,T'au,Commander in Enforcer Battlesuit,melta,2,16
+Xenos,T'au,Commander in Enforcer Battlesuit,plasma,3,6
+Xenos,T'au,Commander in Enforcer Battlesuit,Bolter,3,3
+Xenos,T'au,Commander in Enforcer Battlesuit,missile,1,6
+Xenos,T'au,Devilfish,Lascannon,0,0
+Xenos,T'au,Devilfish,melta,0,0
+Xenos,T'au,Devilfish,plasma,0,0
+Xenos,T'au,Devilfish,Bolter,1,1
+Xenos,T'au,Devilfish,missile,0,0
+Xenos,T'au,Tidewall Droneport,Lascannon,0,0
+Xenos,T'au,Tidewall Droneport,melta,0,0
+Xenos,T'au,Tidewall Droneport,plasma,0,0
+Xenos,T'au,Tidewall Droneport,Bolter,3,3
+Xenos,T'au,Tidewall Droneport,missile,0,0
+Xenos,T'au,Tidewall Gunrig,Lascannon,0,0
+Xenos,T'au,Tidewall Gunrig,melta,0,0
+Xenos,T'au,Tidewall Gunrig,plasma,0,0
+Xenos,T'au,Tidewall Gunrig,Bolter,5,5
+Xenos,T'au,Tidewall Gunrig,missile,0,0
+Xenos,T'au,Tidewall Shieldline,Lascannon,3,21
+Xenos,T'au,Tidewall Shieldline,melta,2,16
+Xenos,T'au,Tidewall Shieldline,plasma,5,10
+Xenos,T'au,Tidewall Shieldline,Bolter,3,3
+Xenos,T'au,Tidewall Shieldline,missile,2,12
+Xenos,T'au,Broadside Battlesuits,Lascannon,0,0
+Xenos,T'au,Broadside Battlesuits,melta,0,0
+Xenos,T'au,Broadside Battlesuits,plasma,0,0
+Xenos,T'au,Broadside Battlesuits,Bolter,3,3
+Xenos,T'au,Broadside Battlesuits,missile,0,0
+Xenos,T'au,Crisis Fireknife Battlesuits,Lascannon,0,0
+Xenos,T'au,Crisis Fireknife Battlesuits,melta,0,0
+Xenos,T'au,Crisis Fireknife Battlesuits,plasma,0,0
+Xenos,T'au,Crisis Fireknife Battlesuits,Bolter,0,0
+Xenos,T'au,Crisis Fireknife Battlesuits,missile,0,0
+Xenos,T'au,Crisis Starscythe Battlesuits,Lascannon,0,0
+Xenos,T'au,Crisis Starscythe Battlesuits,melta,0,0
+Xenos,T'au,Crisis Starscythe Battlesuits,plasma,0,0
+Xenos,T'au,Crisis Starscythe Battlesuits,Bolter,3,3
+Xenos,T'au,Crisis Starscythe Battlesuits,missile,0,0
+Xenos,T'au,Crisis Sunforge Battlesuits,Lascannon,1,7
+Xenos,T'au,Crisis Sunforge Battlesuits,melta,2,16
+Xenos,T'au,Crisis Sunforge Battlesuits,plasma,2,4
+Xenos,T'au,Crisis Sunforge Battlesuits,Bolter,5,5
+Xenos,T'au,Crisis Sunforge Battlesuits,missile,0,0
+Xenos,T'au,Ghostkeel Battlesuit,Lascannon,0,0
+Xenos,T'au,Ghostkeel Battlesuit,melta,0,0
+Xenos,T'au,Ghostkeel Battlesuit,plasma,0,0
+Xenos,T'au,Ghostkeel Battlesuit,Bolter,3,3
+Xenos,T'au,Ghostkeel Battlesuit,missile,0,0
+Xenos,T'au,Hammerhead Gunship,Lascannon,0,0
+Xenos,T'au,Hammerhead Gunship,melta,0,0
+Xenos,T'au,Hammerhead Gunship,plasma,0,0
+Xenos,T'au,Hammerhead Gunship,Bolter,1,1
+Xenos,T'au,Hammerhead Gunship,missile,0,0
+Xenos,T'au,Piranhas,Lascannon,0,0
+Xenos,T'au,Piranhas,melta,0,0
+Xenos,T'au,Piranhas,plasma,0,0
+Xenos,T'au,Piranhas,Bolter,5,5
+Xenos,T'au,Piranhas,missile,2,12
+Xenos,T'au,Razorshark Strike Fighter,Lascannon,0,0
+Xenos,T'au,Razorshark Strike Fighter,melta,0,0
+Xenos,T'au,Razorshark Strike Fighter,plasma,0,0
+Xenos,T'au,Razorshark Strike Fighter,Bolter,3,3
+Xenos,T'au,Razorshark Strike Fighter,missile,0,0
+Xenos,T'au,Riptide Battlesuit,Lascannon,1,7
+Xenos,T'au,Riptide Battlesuit,melta,3,24
+Xenos,T'au,Riptide Battlesuit,plasma,5,10
+Xenos,T'au,Riptide Battlesuit,Bolter,1,1
+Xenos,T'au,Riptide Battlesuit,missile,1,6
+Xenos,T'au,Sky Ray Gunship,Lascannon,0,0
+Xenos,T'au,Sky Ray Gunship,melta,0,0
+Xenos,T'au,Sky Ray Gunship,plasma,0,0
+Xenos,T'au,Sky Ray Gunship,Bolter,5,5
+Xenos,T'au,Sky Ray Gunship,missile,0,0
+Xenos,T'au,stormsurge,Lascannon,1,7
+Xenos,T'au,stormsurge,melta,0,0
+Xenos,T'au,stormsurge,plasma,5,10
+Xenos,T'au,stormsurge,Bolter,3,3
+Xenos,T'au,stormsurge,missile,3,18
+Xenos,T'au,sun shark bomber,Lascannon,0,0
+Xenos,T'au,sun shark bomber,melta,0,0
+Xenos,T'au,sun shark bomber,plasma,0,0
+Xenos,T'au,sun shark bomber,Bolter,2,2
+Xenos,T'au,sun shark bomber,missile,0,0
+Xenos,T'au,AX-1-0 Tiger Shark,Lascannon,2,14
+Xenos,T'au,AX-1-0 Tiger Shark,melta,1,8
+Xenos,T'au,AX-1-0 Tiger Shark,plasma,4,8
+Xenos,T'au,AX-1-0 Tiger Shark,Bolter,5,5
+Xenos,T'au,AX-1-0 Tiger Shark,missile,1,6
+Xenos,T'au,Manta,Lascannon,2,14
+Xenos,T'au,Manta,melta,4,32
+Xenos,T'au,Manta,plasma,5,10
+Xenos,T'au,Manta,Bolter,3,3
+Xenos,T'au,Manta,missile,2,12
+Xenos,T'au,Ta'Unar Supremacy Armor,Lascannon,1,7
+Xenos,T'au,Ta'Unar Supremacy Armor,melta,2,16
+Xenos,T'au,Ta'Unar Supremacy Armor,plasma,4,8
+Xenos,T'au,Ta'Unar Supremacy Armor,Bolter,6,6
+Xenos,T'au,Ta'Unar Supremacy Armor,missile,4,24
+Xenos,T'au,Tiger Shark,Lascannon,4,28
+Xenos,T'au,Tiger Shark,melta,1,8
+Xenos,T'au,Tiger Shark,plasma,6,12
+Xenos,T'au,Tiger Shark,Bolter,4,4
+Xenos,T'au,Tiger Shark,missile,2,12
+Xenos,Tyranids,Hive Tyrant,Lascannon,1,7
+Xenos,Tyranids,Hive Tyrant,melta,2,16
+Xenos,Tyranids,Hive Tyrant,plasma,1,2
+Xenos,Tyranids,Hive Tyrant,Bolter,4,4
+Xenos,Tyranids,Hive Tyrant,missile,2,12
+Xenos,Tyranids,Neurotyrant,Lascannon,1,7
+Xenos,Tyranids,Neurotyrant,melta,1,8
+Xenos,Tyranids,Neurotyrant,plasma,4,8
+Xenos,Tyranids,Neurotyrant,Bolter,6,6
+Xenos,Tyranids,Neurotyrant,missile,4,24
+Xenos,Tyranids,Old One Eye,Lascannon,0,0
+Xenos,Tyranids,Old One Eye,melta,0,0
+Xenos,Tyranids,Old One Eye,plasma,0,0
+Xenos,Tyranids,Old One Eye,Bolter,1,0
+Xenos,Tyranids,Old One Eye,missile,0,0
+Xenos,Tyranids,Tervigion,Lascannon,0,0
+Xenos,Tyranids,Tervigion,melta,0,0
+Xenos,Tyranids,Tervigion,plasma,0,0
+Xenos,Tyranids,Tervigion,Bolter,0,0
+Xenos,Tyranids,Tervigion,missile,0,0
+Xenos,Tyranids,The Swarmlord,Lascannon,1,7
+Xenos,Tyranids,The Swarmlord,melta,2,16
+Xenos,Tyranids,The Swarmlord,plasma,4,8
+Xenos,Tyranids,The Swarmlord,Bolter,4,4
+Xenos,Tyranids,The Swarmlord,missile,2,12
+Xenos,Tyranids,winged hive tyrant,Lascannon,1,7
+Xenos,Tyranids,winged hive tyrant,melta,1,8
+Xenos,Tyranids,winged hive tyrant,plasma,3,6
+Xenos,Tyranids,winged hive tyrant,Bolter,1,1
+Xenos,Tyranids,winged hive tyrant,missile,0,0
+Xenos,Tyranids,tyranocyte,Lascannon,0,0
+Xenos,Tyranids,tyranocyte,melta,0,0
+Xenos,Tyranids,tyranocyte,plasma,0,0
+Xenos,Tyranids,tyranocyte,Bolter,3,3
+Xenos,Tyranids,tyranocyte,missile,0,0
+Xenos,Tyranids,Carnifexes,Lascannon,0,0
+Xenos,Tyranids,Carnifexes,melta,0,0
+Xenos,Tyranids,Carnifexes,plasma,0,0
+Xenos,Tyranids,Carnifexes,Bolter,1,1
+Xenos,Tyranids,Carnifexes,missile,0,0
+Xenos,Tyranids,exocrine,Lascannon,0,0
+Xenos,Tyranids,exocrine,melta,0,0
+Xenos,Tyranids,exocrine,plasma,0,0
+Xenos,Tyranids,exocrine,Bolter,3,3
+Xenos,Tyranids,exocrine,missile,0,0
+Xenos,Tyranids,harpy,Lascannon,0,0
+Xenos,Tyranids,harpy,melta,0,0
+Xenos,Tyranids,harpy,plasma,0,0
+Xenos,Tyranids,harpy,Bolter,1,1
+Xenos,Tyranids,harpy,missile,0,0
+Xenos,Tyranids,haruspex,Lascannon,0,0
+Xenos,Tyranids,haruspex,melta,0,0
+Xenos,Tyranids,haruspex,plasma,0,0
+Xenos,Tyranids,haruspex,Bolter,4,4
+Xenos,Tyranids,haruspex,missile,0,0
+Xenos,Tyranids,hive crone,Lascannon,0,0
+Xenos,Tyranids,hive crone,melta,0,0
+Xenos,Tyranids,hive crone,plasma,0,0
+Xenos,Tyranids,hive crone,Bolter,1,1
+Xenos,Tyranids,hive crone,missile,0,0
+Xenos,Tyranids,Maleceptor,Lascannon,3,21
+Xenos,Tyranids,Maleceptor,melta,3,24
+Xenos,Tyranids,Maleceptor,plasma,3,6
+Xenos,Tyranids,Maleceptor,Bolter,6,6
+Xenos,Tyranids,Maleceptor,missile,0,0
+Xenos,Tyranids,Mawloc,Lascannon,0,0
+Xenos,Tyranids,Mawloc,melta,0,0
+Xenos,Tyranids,Mawloc,plasma,0,0
+Xenos,Tyranids,Mawloc,Bolter,3,3
+Xenos,Tyranids,Mawloc,missile,0,0
+Xenos,Tyranids,Norn Assimilator,Lascannon,0,0
+Xenos,Tyranids,Norn Assimilator,melta,0,0
+Xenos,Tyranids,Norn Assimilator,plasma,0,0
+Xenos,Tyranids,Norn Assimilator,Bolter,1,1
+Xenos,Tyranids,Norn Assimilator,missile,0,0
+Xenos,Tyranids,norn emissary,Lascannon,0,0
+Xenos,Tyranids,norn emissary,melta,2,16
+Xenos,Tyranids,norn emissary,plasma,2,4
+Xenos,Tyranids,norn emissary,Bolter,3,3
+Xenos,Tyranids,norn emissary,missile,3,18
+Xenos,Tyranids,psychophage,Lascannon,0,0
+Xenos,Tyranids,psychophage,melta,0,0
+Xenos,Tyranids,psychophage,plasma,0,0
+Xenos,Tyranids,psychophage,Bolter,2,1
+Xenos,Tyranids,psychophage,missile,0,0
+Xenos,Tyranids,screamer-killer,Lascannon,0,0
+Xenos,Tyranids,screamer-killer,melta,0,0
+Xenos,Tyranids,screamer-killer,plasma,0,0
+Xenos,Tyranids,screamer-killer,Bolter,0,0
+Xenos,Tyranids,screamer-killer,missile,0,0
+Xenos,Tyranids,sporocyst,Lascannon,0,0
+Xenos,Tyranids,sporocyst,melta,0,0
+Xenos,Tyranids,sporocyst,plasma,0,0
+Xenos,Tyranids,sporocyst,Bolter,0,0
+Xenos,Tyranids,sporocyst,missile,0,0
+Xenos,Tyranids,toxicrene,Lascannon,0,0
+Xenos,Tyranids,toxicrene,melta,0,0
+Xenos,Tyranids,toxicrene,plasma,0,0
+Xenos,Tyranids,toxicrene,Bolter,2,2
+Xenos,Tyranids,toxicrene,missile,0,0
+Xenos,Tyranids,trygon,Lascannon,0,0
+Xenos,Tyranids,trygon,melta,0,0
+Xenos,Tyranids,trygon,plasma,0,0
+Xenos,Tyranids,trygon,Bolter,3,3
+Xenos,Tyranids,trygon,missile,0,0
+Xenos,Tyranids,tyrannofex,Lascannon,0,0
+Xenos,Tyranids,tyrannofex,melta,0,0
+Xenos,Tyranids,tyrannofex,plasma,0,0
+Xenos,Tyranids,tyrannofex,Bolter,1,1
+Xenos,Tyranids,tyrannofex,missile,0,0
+Xenos,Tyranids,harridan,Lascannon,0,0
+Xenos,Tyranids,harridan,melta,0,0
+Xenos,Tyranids,harridan,plasma,0,0
+Xenos,Tyranids,harridan,Bolter,2,2
+Xenos,Tyranids,harridan,missile,0,0
+Xenos,Tyranids,hierophant,Lascannon,4,28
+Xenos,Tyranids,hierophant,melta,1,8
+Xenos,Tyranids,hierophant,plasma,3,6
+Xenos,Tyranids,hierophant,Bolter,6,6
+Xenos,Tyranids,hierophant,missile,0,0
+chaos,Chaos Deamons,Be'Lakor,Lascannon,0,0
+chaos,Chaos Deamons,Be'Lakor,melta,2,16
+chaos,Chaos Deamons,Be'Lakor,plasma,3,6
+chaos,Chaos Deamons,Be'Lakor,Bolter,6,6
+chaos,Chaos Deamons,Be'Lakor,missile,3,18
+chaos,Chaos Deamons,Bloodthirster,Lascannon,3,21
+chaos,Chaos Deamons,Bloodthirster,melta,2,16
+chaos,Chaos Deamons,Bloodthirster,plasma,6,12
+chaos,Chaos Deamons,Bloodthirster,Bolter,4,4
+chaos,Chaos Deamons,Bloodthirster,missile,3,18
+chaos,Chaos Deamons,Daemon Prince of Chaos,Lascannon,1,7
+chaos,Chaos Deamons,Daemon Prince of Chaos,melta,2,16
+chaos,Chaos Deamons,Daemon Prince of Chaos,plasma,4,8
+chaos,Chaos Deamons,Daemon Prince of Chaos,Bolter,2,2
+chaos,Chaos Deamons,Daemon Prince of Chaos,missile,2,12
+chaos,Chaos Deamons,Daemon Prince of Chaos with wings,Lascannon,2,14
+chaos,Chaos Deamons,Daemon Prince of Chaos with wings,melta,1,8
+chaos,Chaos Deamons,Daemon Prince of Chaos with wings,plasma,3,6
+chaos,Chaos Deamons,Daemon Prince of Chaos with wings,Bolter,3,3
+chaos,Chaos Deamons,Daemon Prince of Chaos with wings,missile,2,12
+chaos,Chaos Deamons,Great Unclean One,Lascannon,1,7
+chaos,Chaos Deamons,Great Unclean One,melta,3,24
+chaos,Chaos Deamons,Great Unclean One,plasma,3,6
+chaos,Chaos Deamons,Great Unclean One,Bolter,5,5
+chaos,Chaos Deamons,Great Unclean One,missile,1,6
+chaos,Chaos Deamons,Kairos Fateweaver,Lascannon,1,7
+chaos,Chaos Deamons,Kairos Fateweaver,melta,3,24
+chaos,Chaos Deamons,Kairos Fateweaver,plasma,2,4
+chaos,Chaos Deamons,Kairos Fateweaver,Bolter,5,5
+chaos,Chaos Deamons,Kairos Fateweaver,missile,2,12
+chaos,Chaos Deamons,Keeper of Secrets,Lascannon,3,21
+chaos,Chaos Deamons,Keeper of Secrets,melta,1,8
+chaos,Chaos Deamons,Keeper of Secrets,plasma,4,8
+chaos,Chaos Deamons,Keeper of Secrets,Bolter,7,7
+chaos,Chaos Deamons,Keeper of Secrets,missile,1,6
+chaos,Chaos Deamons,Lord of Change,Lascannon,1,7
+chaos,Chaos Deamons,Lord of Change,melta,1,8
+chaos,Chaos Deamons,Lord of Change,plasma,3,6
+chaos,Chaos Deamons,Lord of Change,Bolter,7,7
+chaos,Chaos Deamons,Lord of Change,missile,3,18
+chaos,Chaos Deamons,Rotigus,Lascannon,2,14
+chaos,Chaos Deamons,Rotigus,melta,2,16
+chaos,Chaos Deamons,Rotigus,plasma,3,6
+chaos,Chaos Deamons,Rotigus,Bolter,5,5
+chaos,Chaos Deamons,Rotigus,missile,2,12
+chaos,Chaos Deamons,Shalaxi Helbane,Lascannon,4,19
+chaos,Chaos Deamons,Shalaxi Helbane,melta,1,5
+chaos,Chaos Deamons,Shalaxi Helbane,plasma,2,3
+chaos,Chaos Deamons,Shalaxi Helbane,Bolter,4,3
+chaos,Chaos Deamons,Shalaxi Helbane,missile,2,7
+chaos,Chaos Deamons,Skarbrand,Lascannon,2,14
+chaos,Chaos Deamons,Skarbrand,melta,2,16
+chaos,Chaos Deamons,Skarbrand,plasma,4,8
+chaos,Chaos Deamons,Skarbrand,Bolter,2,2
+chaos,Chaos Deamons,Skarbrand,missile,2,12
+chaos,Chaos Deamons,Syll'esske,Lascannon,0,0
+chaos,Chaos Deamons,Syll'esske,melta,2,16
+chaos,Chaos Deamons,Syll'esske,plasma,3,6
+chaos,Chaos Deamons,Syll'esske,Bolter,7,7
+chaos,Chaos Deamons,Syll'esske,missile,0,0
+chaos,Chaos Knights,Knight Abominant,Lascannon,3,21
+chaos,Chaos Knights,Knight Abominant,melta,2,16
+chaos,Chaos Knights,Knight Abominant,plasma,5,10
+chaos,Chaos Knights,Knight Abominant,Bolter,2,2
+chaos,Chaos Knights,Knight Abominant,missile,5,30
+chaos,Chaos Knights,Knight Desecrator,Lascannon,2,14
+chaos,Chaos Knights,Knight Desecrator,melta,0,0
+chaos,Chaos Knights,Knight Desecrator,plasma,6,12
+chaos,Chaos Knights,Knight Desecrator,Bolter,5,5
+chaos,Chaos Knights,Knight Desecrator,missile,1,6
+chaos,Chaos Knights,Knight Despoiler,Lascannon,5,35
+chaos,Chaos Knights,Knight Despoiler,melta,2,16
+chaos,Chaos Knights,Knight Despoiler,plasma,8,16
+chaos,Chaos Knights,Knight Despoiler,Bolter,5,5
+chaos,Chaos Knights,Knight Despoiler,missile,4,24
+chaos,Chaos Knights,Knight Rampager,Lascannon,1,7
+chaos,Chaos Knights,Knight Rampager,melta,3,24
+chaos,Chaos Knights,Knight Rampager,plasma,6,12
+chaos,Chaos Knights,Knight Rampager,Bolter,4,4
+chaos,Chaos Knights,Knight Rampager,missile,3,18
+chaos,Chaos Knights,Knight Tyrant,Lascannon,2,14
+chaos,Chaos Knights,Knight Tyrant,melta,2,16
+chaos,Chaos Knights,Knight Tyrant,plasma,6,12
+chaos,Chaos Knights,Knight Tyrant,Bolter,7,7
+chaos,Chaos Knights,Knight Tyrant,missile,3,18
+chaos,Chaos Knights,War Dog Stalker,Lascannon,3,21
+chaos,Chaos Knights,War Dog Stalker,melta,2,16
+chaos,Chaos Knights,War Dog Stalker,plasma,1,2
+chaos,Chaos Knights,War Dog Stalker,Bolter,5,5
+chaos,Chaos Knights,War Dog Stalker,missile,3,18
+chaos,Chaos Knights,Chaos Cerastus Knight Acheron,Lascannon,4,28
+chaos,Chaos Knights,Chaos Cerastus Knight Acheron,melta,3,24
+chaos,Chaos Knights,Chaos Cerastus Knight Acheron,plasma,7,14
+chaos,Chaos Knights,Chaos Cerastus Knight Acheron,Bolter,5,5
+chaos,Chaos Knights,Chaos Cerastus Knight Acheron,missile,2,12
+chaos,Chaos Knights,Chaos Cerastus Knight Atrapos,Lascannon,5,35
+chaos,Chaos Knights,Chaos Cerastus Knight Atrapos,melta,1,8
+chaos,Chaos Knights,Chaos Cerastus Knight Atrapos,plasma,2,4
+chaos,Chaos Knights,Chaos Cerastus Knight Atrapos,Bolter,6,6
+chaos,Chaos Knights,Chaos Cerastus Knight Atrapos,missile,0,0
+chaos,Chaos Knights,Chaos Cerastus Knight Castigator,Lascannon,2,14
+chaos,Chaos Knights,Chaos Cerastus Knight Castigator,melta,1,8
+chaos,Chaos Knights,Chaos Cerastus Knight Castigator,plasma,2,4
+chaos,Chaos Knights,Chaos Cerastus Knight Castigator,Bolter,4,4
+chaos,Chaos Knights,Chaos Cerastus Knight Castigator,missile,2,12
+chaos,Chaos Knights,Chaos Cerastus Knight Lancer,Lascannon,2,14
+chaos,Chaos Knights,Chaos Cerastus Knight Lancer,melta,1,8
+chaos,Chaos Knights,Chaos Cerastus Knight Lancer,plasma,5,10
+chaos,Chaos Knights,Chaos Cerastus Knight Lancer,Bolter,4,4
+chaos,Chaos Knights,Chaos Cerastus Knight Lancer,missile,4,24
+chaos,Chaos Knights,Chaos Questoris Knght Magaera,Lascannon,2,14
+chaos,Chaos Knights,Chaos Questoris Knght Magaera,melta,1,8
+chaos,Chaos Knights,Chaos Questoris Knght Magaera,plasma,3,6
+chaos,Chaos Knights,Chaos Questoris Knght Magaera,Bolter,6,6
+chaos,Chaos Knights,Chaos Questoris Knght Magaera,missile,2,12
+chaos,Chaos Knights,Chaos Questoris Knight Styrix,Lascannon,4,28
+chaos,Chaos Knights,Chaos Questoris Knight Styrix,melta,2,16
+chaos,Chaos Knights,Chaos Questoris Knight Styrix,plasma,3,6
+chaos,Chaos Knights,Chaos Questoris Knight Styrix,Bolter,5,5
+chaos,Chaos Knights,Chaos Questoris Knight Styrix,missile,1,6
+chaos,Chaos Knights,War Dog Brigand,Lascannon,2,14
+chaos,Chaos Knights,War Dog Brigand,melta,3,24
+chaos,Chaos Knights,War Dog Brigand,plasma,5,10
+chaos,Chaos Knights,War Dog Brigand,Bolter,7,7
+chaos,Chaos Knights,War Dog Brigand,missile,2,12
+chaos,Chaos Knights,War Dog Executioner,Lascannon,2,14
+chaos,Chaos Knights,War Dog Executioner,melta,4,32
+chaos,Chaos Knights,War Dog Executioner,plasma,3,6
+chaos,Chaos Knights,War Dog Executioner,Bolter,5,5
+chaos,Chaos Knights,War Dog Executioner,missile,2,12
+chaos,Chaos Knights,War Dog Huntsman,Lascannon,1,7
+chaos,Chaos Knights,War Dog Huntsman,melta,3,24
+chaos,Chaos Knights,War Dog Huntsman,plasma,6,12
+chaos,Chaos Knights,War Dog Huntsman,Bolter,3,3
+chaos,Chaos Knights,War Dog Huntsman,missile,1,6
+chaos,Chaos Knights,War Dog Karnivore,Lascannon,3,21
+chaos,Chaos Knights,War Dog Karnivore,melta,4,32
+chaos,Chaos Knights,War Dog Karnivore,plasma,6,12
+chaos,Chaos Knights,War Dog Karnivore,Bolter,6,6
+chaos,Chaos Knights,War Dog Karnivore,missile,2,12
+chaos,Chaos Knights,War Dog Moirax,Lascannon,2,14
+chaos,Chaos Knights,War Dog Moirax,melta,1,8
+chaos,Chaos Knights,War Dog Moirax,plasma,5,10
+chaos,Chaos Knights,War Dog Moirax,Bolter,2,2
+chaos,Chaos Knights,War Dog Moirax,missile,1,6
+chaos,Chaos Knights,Chaos Acastus Knight Asterius,Lascannon,1,7
+chaos,Chaos Knights,Chaos Acastus Knight Asterius,melta,1,8
+chaos,Chaos Knights,Chaos Acastus Knight Asterius,plasma,4,8
+chaos,Chaos Knights,Chaos Acastus Knight Asterius,Bolter,3,3
+chaos,Chaos Knights,Chaos Acastus Knight Asterius,missile,2,12
+chaos,Chaos Knights,Chaos Acastus Knight Porphyrion,Lascannon,1,7
+chaos,Chaos Knights,Chaos Acastus Knight Porphyrion,melta,3,24
+chaos,Chaos Knights,Chaos Acastus Knight Porphyrion,plasma,4,8
+chaos,Chaos Knights,Chaos Acastus Knight Porphyrion,Bolter,2,2
+chaos,Chaos Knights,Chaos Acastus Knight Porphyrion,missile,2,12
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince,Lascannon,1,7
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince,melta,2,16
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince,plasma,3,6
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince,Bolter,1,1
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince,missile,2,12
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince with wings,Lascannon,0,0
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince with wings,melta,1,8
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince with wings,plasma,5,10
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince with wings,Bolter,4,4
+chaos,Chaos Space Marines,Heretic Astartes Daemon Prince with wings,missile,3,18
+chaos,Chaos Space Marines,Vashtorr the arkifane,Lascannon,1,7
+chaos,Chaos Space Marines,Vashtorr the arkifane,melta,4,32
+chaos,Chaos Space Marines,Vashtorr the arkifane,plasma,1,2
+chaos,Chaos Space Marines,Vashtorr the arkifane,Bolter,7,7
+chaos,Chaos Space Marines,Vashtorr the arkifane,missile,3,18
+chaos,Chaos Space Marines,chaos rhino,Lascannon,0,0
+chaos,Chaos Space Marines,chaos rhino,melta,0,0
+chaos,Chaos Space Marines,chaos rhino,plasma,0,0
+chaos,Chaos Space Marines,chaos rhino,Bolter,1,1
+chaos,Chaos Space Marines,chaos rhino,missile,0,0
+chaos,Chaos Space Marines,Caos land raider,Lascannon,0,0
+chaos,Chaos Space Marines,Caos land raider,melta,0,0
+chaos,Chaos Space Marines,Caos land raider,plasma,0,0
+chaos,Chaos Space Marines,Caos land raider,Bolter,2,2
+chaos,Chaos Space Marines,Caos land raider,missile,0,0
+chaos,Chaos Space Marines,chaos predator annihilator,Lascannon,0,0
+chaos,Chaos Space Marines,chaos predator annihilator,melta,0,0
+chaos,Chaos Space Marines,chaos predator annihilator,plasma,0,0
+chaos,Chaos Space Marines,chaos predator annihilator,Bolter,3,3
+chaos,Chaos Space Marines,chaos predator annihilator,missile,0,0
+chaos,Chaos Space Marines,chaos predator destructor,Lascannon,0,0
+chaos,Chaos Space Marines,chaos predator destructor,melta,0,0
+chaos,Chaos Space Marines,chaos predator destructor,plasma,0,0
+chaos,Chaos Space Marines,chaos predator destructor,Bolter,2,2
+chaos,Chaos Space Marines,chaos predator destructor,missile,0,0
+chaos,Chaos Space Marines,chaos vindictaor,Lascannon,0,0
+chaos,Chaos Space Marines,chaos vindictaor,melta,0,0
+chaos,Chaos Space Marines,chaos vindictaor,plasma,0,0
+chaos,Chaos Space Marines,chaos vindictaor,Bolter,2,2
+chaos,Chaos Space Marines,chaos vindictaor,missile,0,0
+chaos,Chaos Space Marines,defiler,Lascannon,2,14
+chaos,Chaos Space Marines,defiler,melta,2,16
+chaos,Chaos Space Marines,defiler,plasma,6,12
+chaos,Chaos Space Marines,defiler,Bolter,4,4
+chaos,Chaos Space Marines,defiler,missile,2,12
+chaos,Chaos Space Marines,forgefiend,Lascannon,3,21
+chaos,Chaos Space Marines,forgefiend,melta,3,24
+chaos,Chaos Space Marines,forgefiend,plasma,3,6
+chaos,Chaos Space Marines,forgefiend,Bolter,5,5
+chaos,Chaos Space Marines,forgefiend,missile,0,0
+chaos,Chaos Space Marines,helbrute,Lascannon,0,0
+chaos,Chaos Space Marines,helbrute,melta,0,0
+chaos,Chaos Space Marines,helbrute,plasma,0,0
+chaos,Chaos Space Marines,helbrute,Bolter,0,0
+chaos,Chaos Space Marines,helbrute,missile,0,0
+chaos,Chaos Space Marines,heldrake,Lascannon,2,14
+chaos,Chaos Space Marines,heldrake,melta,2,16
+chaos,Chaos Space Marines,heldrake,plasma,0,0
+chaos,Chaos Space Marines,heldrake,Bolter,3,3
+chaos,Chaos Space Marines,heldrake,missile,2,12
+chaos,Chaos Space Marines,maulerfiend,Lascannon,3,21
+chaos,Chaos Space Marines,maulerfiend,melta,4,32
+chaos,Chaos Space Marines,maulerfiend,plasma,5,10
+chaos,Chaos Space Marines,maulerfiend,Bolter,6,6
+chaos,Chaos Space Marines,maulerfiend,missile,4,24
+chaos,Chaos Space Marines,venomcrawler,Lascannon,2,14
+chaos,Chaos Space Marines,venomcrawler,melta,4,32
+chaos,Chaos Space Marines,venomcrawler,plasma,4,8
+chaos,Chaos Space Marines,venomcrawler,Bolter,4,4
+chaos,Chaos Space Marines,venomcrawler,missile,2,12
+chaos,death guard,Death Guard Daemon Prince,Lascannon,2,14
+chaos,death guard,Death Guard Daemon Prince,melta,2,16
+chaos,death guard,Death Guard Daemon Prince,plasma,3,6
+chaos,death guard,Death Guard Daemon Prince,Bolter,5,5
+chaos,death guard,Death Guard Daemon Prince,missile,2,12
+chaos,death guard,Death Guard Daemon Prince with wings,Lascannon,0,0
+chaos,death guard,Death Guard Daemon Prince with wings,melta,0,0
+chaos,death guard,Death Guard Daemon Prince with wings,plasma,4,8
+chaos,death guard,Death Guard Daemon Prince with wings,Bolter,4,4
+chaos,death guard,Death Guard Daemon Prince with wings,missile,2,12
+chaos,death guard,Mortarion,Lascannon,1,4
+chaos,death guard,Mortarion,melta,0,0
+chaos,death guard,Mortarion,plasma,2,4
+chaos,death guard,Mortarion,Bolter,5,2
+chaos,death guard,Mortarion,missile,4,18
+chaos,death guard,Death Guard Rhino,Lascannon,0,0
+chaos,death guard,Death Guard Rhino,melta,0,0
+chaos,death guard,Death Guard Rhino,plasma,0,0
+chaos,death guard,Death Guard Rhino,Bolter,1,1
+chaos,death guard,Death Guard Rhino,missile,0,0
+chaos,death guard,Death Guard Defiler,Lascannon,2,14
+chaos,death guard,Death Guard Defiler,melta,2,16
+chaos,death guard,Death Guard Defiler,plasma,5,10
+chaos,death guard,Death Guard Defiler,Bolter,4,4
+chaos,death guard,Death Guard Defiler,missile,2,12
+chaos,death guard,Death Guard Helbrute,Lascannon,0,0
+chaos,death guard,Death Guard Helbrute,melta,0,0
+chaos,death guard,Death Guard Helbrute,plasma,0,0
+chaos,death guard,Death Guard Helbrute,Bolter,0,0
+chaos,death guard,Death Guard Helbrute,missile,0,0
+chaos,death guard,Death Guard Land Raider,Lascannon,0,0
+chaos,death guard,Death Guard Land Raider,melta,0,0
+chaos,death guard,Death Guard Land Raider,plasma,0,0
+chaos,death guard,Death Guard Land Raider,Bolter,1,1
+chaos,death guard,Death Guard Land Raider,missile,0,0
+chaos,death guard,Death Guard Predator Annihilator,Lascannon,0,0
+chaos,death guard,Death Guard Predator Annihilator,melta,0,0
+chaos,death guard,Death Guard Predator Annihilator,plasma,0,0
+chaos,death guard,Death Guard Predator Annihilator,Bolter,5,5
+chaos,death guard,Death Guard Predator Annihilator,missile,0,0
+chaos,death guard,Death Guard Predator Destructor,Lascannon,0,0
+chaos,death guard,Death Guard Predator Destructor,melta,0,0
+chaos,death guard,Death Guard Predator Destructor,plasma,0,0
+chaos,death guard,Death Guard Predator Destructor,Bolter,0,0
+chaos,death guard,Death Guard Predator Destructor,missile,0,0
+chaos,death guard,Foetid Bloat-Drone,Lascannon,2,14
+chaos,death guard,Foetid Bloat-Drone,melta,4,32
+chaos,death guard,Foetid Bloat-Drone,plasma,4,8
+chaos,death guard,Foetid Bloat-Drone,Bolter,3,3
+chaos,death guard,Foetid Bloat-Drone,missile,2,12
+chaos,death guard,Myphitic Blight-Haulers,Lascannon,2,14
+chaos,death guard,Myphitic Blight-Haulers,melta,3,24
+chaos,death guard,Myphitic Blight-Haulers,plasma,3,6
+chaos,death guard,Myphitic Blight-Haulers,Bolter,3,3
+chaos,death guard,Myphitic Blight-Haulers,missile,2,12
+chaos,death guard,Plagueburst Crawler,Lascannon,2,14
+chaos,death guard,Plagueburst Crawler,melta,2,16
+chaos,death guard,Plagueburst Crawler,plasma,2,4
+chaos,death guard,Plagueburst Crawler,Bolter,6,6
+chaos,death guard,Plagueburst Crawler,missile,1,6
+chaos,thousannd sons,Magus the red,Lascannon,2,14
+chaos,thousannd sons,Magus the red,melta,2,16
+chaos,thousannd sons,Magus the red,plasma,2,4
+chaos,thousannd sons,Magus the red,Bolter,4,4
+chaos,thousannd sons,Magus the red,missile,4,24
+chaos,thousannd sons,thousand sons deamon prince,Lascannon,0,0
+chaos,thousannd sons,thousand sons deamon prince,melta,1,8
+chaos,thousannd sons,thousand sons deamon prince,plasma,4,8
+chaos,thousannd sons,thousand sons deamon prince,Bolter,3,3
+chaos,thousannd sons,thousand sons deamon prince,missile,3,18
+chaos,thousannd sons,thousand sons daemon prince with wings,Lascannon,3,21
+chaos,thousannd sons,thousand sons daemon prince with wings,melta,1,8
+chaos,thousannd sons,thousand sons daemon prince with wings,plasma,5,10
+chaos,thousannd sons,thousand sons daemon prince with wings,Bolter,4,4
+chaos,thousannd sons,thousand sons daemon prince with wings,missile,1,6
+chaos,thousannd sons,thousand sons rhino,Lascannon,0,0
+chaos,thousannd sons,thousand sons rhino,melta,0,0
+chaos,thousannd sons,thousand sons rhino,plasma,0,0
+chaos,thousannd sons,thousand sons rhino,Bolter,2,2
+chaos,thousannd sons,thousand sons rhino,missile,0,0
+chaos,thousannd sons,Mutalith vortex beast,Lascannon,1,6
+chaos,thousannd sons,Mutalith vortex beast,melta,1,7
+chaos,thousannd sons,Mutalith vortex beast,plasma,7,9
+chaos,thousannd sons,Mutalith vortex beast,Bolter,7,5
+chaos,thousannd sons,Mutalith vortex beast,missile,3,12
+chaos,thousannd sons,thousand sons defiler,Lascannon,3,21
+chaos,thousannd sons,thousand sons defiler,melta,1,8
+chaos,thousannd sons,thousand sons defiler,plasma,3,6
+chaos,thousannd sons,thousand sons defiler,Bolter,1,1
+chaos,thousannd sons,thousand sons defiler,missile,1,6
+chaos,thousannd sons,thousand sons forgefiend,Lascannon,3,21
+chaos,thousannd sons,thousand sons forgefiend,melta,1,8
+chaos,thousannd sons,thousand sons forgefiend,plasma,4,8
+chaos,thousannd sons,thousand sons forgefiend,Bolter,4,4
+chaos,thousannd sons,thousand sons forgefiend,missile,1,6
+chaos,thousannd sons,thousand sons helbrute,Lascannon,3,21
+chaos,thousannd sons,thousand sons helbrute,melta,3,24
+chaos,thousannd sons,thousand sons helbrute,plasma,4,8
+chaos,thousannd sons,thousand sons helbrute,Bolter,4,4
+chaos,thousannd sons,thousand sons helbrute,missile,1,6
+chaos,thousannd sons,thousand sons heldrake,Lascannon,3,21
+chaos,thousannd sons,thousand sons heldrake,melta,4,32
+chaos,thousannd sons,thousand sons heldrake,plasma,4,8
+chaos,thousannd sons,thousand sons heldrake,Bolter,2,2
+chaos,thousannd sons,thousand sons heldrake,missile,2,12
+chaos,thousannd sons,thousand sons land raider,Lascannon,0,0
+chaos,thousannd sons,thousand sons land raider,melta,0,0
+chaos,thousannd sons,thousand sons land raider,plasma,0,0
+chaos,thousannd sons,thousand sons land raider,Bolter,1,1
+chaos,thousannd sons,thousand sons land raider,missile,0,0
+chaos,thousannd sons,thousand sons maulerfiend,Lascannon,2,14
+chaos,thousannd sons,thousand sons maulerfiend,melta,1,8
+chaos,thousannd sons,thousand sons maulerfiend,plasma,2,4
+chaos,thousannd sons,thousand sons maulerfiend,Bolter,5,5
+chaos,thousannd sons,thousand sons maulerfiend,missile,1,6
+chaos,thousannd sons,thousand sons predator annihilator,Lascannon,0,0
+chaos,thousannd sons,thousand sons predator annihilator,melta,0,0
+chaos,thousannd sons,thousand sons predator annihilator,plasma,0,0
+chaos,thousannd sons,thousand sons predator annihilator,Bolter,2,2
+chaos,thousannd sons,thousand sons predator annihilator,missile,0,0
+chaos,thousannd sons,thousands sons predator destructor,Lascannon,0,0
+chaos,thousannd sons,thousands sons predator destructor,melta,0,0
+chaos,thousannd sons,thousands sons predator destructor,plasma,0,0
+chaos,thousannd sons,thousands sons predator destructor,Bolter,2,2
+chaos,thousannd sons,thousands sons predator destructor,missile,0,0
+chaos,thousannd sons,thousands sons vndicator,Lascannon,0,0
+chaos,thousannd sons,thousands sons vndicator,melta,0,0
+chaos,thousannd sons,thousands sons vndicator,plasma,0,0
+chaos,thousannd sons,thousands sons vndicator,Bolter,0,0
+chaos,thousannd sons,thousands sons vndicator,missile,0,0
+chaos,world eaters,angron,Lascannon,2,14
+chaos,world eaters,angron,melta,1,8
+chaos,world eaters,angron,plasma,4,8
+chaos,world eaters,angron,Bolter,3,3
+chaos,world eaters,angron,missile,2,12
+chaos,world eaters,world eaters deamon prince,Lascannon,2,14
+chaos,world eaters,world eaters deamon prince,melta,2,16
+chaos,world eaters,world eaters deamon prince,plasma,4,8
+chaos,world eaters,world eaters deamon prince,Bolter,4,4
+chaos,world eaters,world eaters deamon prince,missile,1,6
+chaos,world eaters,world eaters deamon prince with wings ,Lascannon,1,7
+chaos,world eaters,world eaters deamon prince with wings ,melta,2,16
+chaos,world eaters,world eaters deamon prince with wings ,plasma,1,2
+chaos,world eaters,world eaters deamon prince with wings ,Bolter,3,3
+chaos,world eaters,world eaters deamon prince with wings ,missile,2,12
+chaos,world eaters,world eaters rhino,Lascannon,0,0
+chaos,world eaters,world eaters rhino,melta,0,0
+chaos,world eaters,world eaters rhino,plasma,0,0
+chaos,world eaters,world eaters rhino,Bolter,5,5
+chaos,world eaters,world eaters rhino,missile,0,0
+chaos,world eaters,khorne lord of skulls ,Lascannon,3,21
+chaos,world eaters,khorne lord of skulls ,melta,1,8
+chaos,world eaters,khorne lord of skulls ,plasma,4,8
+chaos,world eaters,khorne lord of skulls ,Bolter,3,3
+chaos,world eaters,khorne lord of skulls ,missile,2,12
+chaos,world eaters,world eaters defiler,Lascannon,3,21
+chaos,world eaters,world eaters defiler,melta,2,16
+chaos,world eaters,world eaters defiler,plasma,8,16
+chaos,world eaters,world eaters defiler,Bolter,5,5
+chaos,world eaters,world eaters defiler,missile,2,12
+chaos,world eaters,world eaters forgefiend,Lascannon,2,14
+chaos,world eaters,world eaters forgefiend,melta,0,0
+chaos,world eaters,world eaters forgefiend,plasma,7,14
+chaos,world eaters,world eaters forgefiend,Bolter,2,2
+chaos,world eaters,world eaters forgefiend,missile,2,12
+chaos,world eaters,world eaters helbrute,Lascannon,0,0
+chaos,world eaters,world eaters helbrute,melta,0,0
+chaos,world eaters,world eaters helbrute,plasma,0,0
+chaos,world eaters,world eaters helbrute,Bolter,0,0
+chaos,world eaters,world eaters helbrute,missile,0,0
+chaos,world eaters,world eaters heldrake,Lascannon,2,14
+chaos,world eaters,world eaters heldrake,melta,3,24
+chaos,world eaters,world eaters heldrake,plasma,2,4
+chaos,world eaters,world eaters heldrake,Bolter,2,2
+chaos,world eaters,world eaters heldrake,missile,2,12
+chaos,world eaters,world eaters land raider,Lascannon,0,0
+chaos,world eaters,world eaters land raider,melta,0,0
+chaos,world eaters,world eaters land raider,plasma,0,0
+chaos,world eaters,world eaters land raider,Bolter,1,1
+chaos,world eaters,world eaters land raider,missile,0,0
+chaos,world eaters,world eaters maulerfiend,Lascannon,3,21
+chaos,world eaters,world eaters maulerfiend,melta,2,16
+chaos,world eaters,world eaters maulerfiend,plasma,4,8
+chaos,world eaters,world eaters maulerfiend,Bolter,5,5
+chaos,world eaters,world eaters maulerfiend,missile,1,6
+chaos,world eaters,world eaters predator annihiliator,Lascannon,0,0
+chaos,world eaters,world eaters predator annihiliator,melta,0,0
+chaos,world eaters,world eaters predator annihiliator,plasma,0,0
+chaos,world eaters,world eaters predator annihiliator,Bolter,0,0
+chaos,world eaters,world eaters predator annihiliator,missile,0,0
+chaos,world eaters,world eaters predator destrcutor,Lascannon,0,0
+chaos,world eaters,world eaters predator destrcutor,melta,0,0
+chaos,world eaters,world eaters predator destrcutor,plasma,0,0
+chaos,world eaters,world eaters predator destrcutor,Bolter,4,4
+chaos,world eaters,world eaters predator destrcutor,missile,0,0
+imperium,Adepta Sororitas,morvenn vahl,Lascannon,3,21
+imperium,Adepta Sororitas,morvenn vahl,melta,1,8
+imperium,Adepta Sororitas,morvenn vahl,plasma,4,8
+imperium,Adepta Sororitas,morvenn vahl,Bolter,6,6
+imperium,Adepta Sororitas,morvenn vahl,missile,1,6
+imperium,Adepta Sororitas,immolator,Lascannon,4,28
+imperium,Adepta Sororitas,immolator,melta,2,16
+imperium,Adepta Sororitas,immolator,plasma,3,6
+imperium,Adepta Sororitas,immolator,Bolter,6,6
+imperium,Adepta Sororitas,immolator,missile,2,12
+imperium,Adepta Sororitas,sororitas rhino,Lascannon,4,28
+imperium,Adepta Sororitas,sororitas rhino,melta,3,24
+imperium,Adepta Sororitas,sororitas rhino,plasma,6,12
+imperium,Adepta Sororitas,sororitas rhino,Bolter,5,5
+imperium,Adepta Sororitas,sororitas rhino,missile,3,18
+imperium,Adepta Sororitas,castogator,Lascannon,2,14
+imperium,Adepta Sororitas,castogator,melta,2,16
+imperium,Adepta Sororitas,castogator,plasma,7,14
+imperium,Adepta Sororitas,castogator,Bolter,6,6
+imperium,Adepta Sororitas,castogator,missile,3,18
+imperium,Adepta Sororitas,exorcist,Lascannon,2,14
+imperium,Adepta Sororitas,exorcist,melta,2,16
+imperium,Adepta Sororitas,exorcist,plasma,6,12
+imperium,Adepta Sororitas,exorcist,Bolter,4,4
+imperium,Adepta Sororitas,exorcist,missile,2,12
+imperium,Adepta Sororitas,mortifiers,Lascannon,2,11
+imperium,Adepta Sororitas,mortifiers,melta,4,18
+imperium,Adepta Sororitas,mortifiers,plasma,6,9
+imperium,Adepta Sororitas,mortifiers,Bolter,8,6
+imperium,Adepta Sororitas,mortifiers,missile,2,5
+imperium,Adepta Sororitas,paragon warsuits,Lascannon,2,14
+imperium,Adepta Sororitas,paragon warsuits,melta,4,32
+imperium,Adepta Sororitas,paragon warsuits,plasma,4,8
+imperium,Adepta Sororitas,paragon warsuits,Bolter,6,6
+imperium,Adepta Sororitas,paragon warsuits,missile,3,18
+imperium,Adepta Sororitas,paragon engines,Lascannon,0,0
+imperium,Adepta Sororitas,paragon engines,melta,0,0
+imperium,Adepta Sororitas,paragon engines,plasma,0,0
+imperium,Adepta Sororitas,paragon engines,Bolter,4,3
+imperium,Adepta Sororitas,paragon engines,missile,0,0
+imperium,Adeptus Custodes,Anathema Psykana Rhino,Lascannon,0,0
+imperium,Adeptus Custodes,Anathema Psykana Rhino,melta,0,0
+imperium,Adeptus Custodes,Anathema Psykana Rhino,plasma,0,0
+imperium,Adeptus Custodes,Anathema Psykana Rhino,Bolter,3,3
+imperium,Adeptus Custodes,Anathema Psykana Rhino,missile,0,0
+imperium,Adeptus Custodes,Venerable Contemptor Dreadnought,Lascannon,4,28
+imperium,Adeptus Custodes,Venerable Contemptor Dreadnought,melta,1,8
+imperium,Adeptus Custodes,Venerable Contemptor Dreadnought,plasma,5,10
+imperium,Adeptus Custodes,Venerable Contemptor Dreadnought,Bolter,4,4
+imperium,Adeptus Custodes,Venerable Contemptor Dreadnought,missile,4,24
+imperium,Adeptus Custodes,Venerable land raider,Lascannon,0,0
+imperium,Adeptus Custodes,Venerable land raider,melta,0,0
+imperium,Adeptus Custodes,Venerable land raider,plasma,0,0
+imperium,Adeptus Custodes,Venerable land raider,Bolter,1,1
+imperium,Adeptus Custodes,Venerable land raider,missile,0,0
+imperium,Adeptus Custodes,Ares Gunship,Lascannon,1,7
+imperium,Adeptus Custodes,Ares Gunship,melta,1,8
+imperium,Adeptus Custodes,Ares Gunship,plasma,6,12
+imperium,Adeptus Custodes,Ares Gunship,Bolter,2,2
+imperium,Adeptus Custodes,Ares Gunship,missile,3,18
+imperium,Adeptus Custodes,Caladius Grav-Tank,Lascannon,2,14
+imperium,Adeptus Custodes,Caladius Grav-Tank,melta,4,32
+imperium,Adeptus Custodes,Caladius Grav-Tank,plasma,5,10
+imperium,Adeptus Custodes,Caladius Grav-Tank,Bolter,4,4
+imperium,Adeptus Custodes,Caladius Grav-Tank,missile,0,0
+imperium,Adeptus Custodes,Contemptor-archillus dreadnought,Lascannon,4,28
+imperium,Adeptus Custodes,Contemptor-archillus dreadnought,melta,5,40
+imperium,Adeptus Custodes,Contemptor-archillus dreadnought,plasma,2,4
+imperium,Adeptus Custodes,Contemptor-archillus dreadnought,Bolter,3,3
+imperium,Adeptus Custodes,Contemptor-archillus dreadnought,missile,2,12
+imperium,Adeptus Custodes,contemptor-galatus dreadnaught,Lascannon,3,21
+imperium,Adeptus Custodes,contemptor-galatus dreadnaught,melta,0,0
+imperium,Adeptus Custodes,contemptor-galatus dreadnaught,plasma,3,6
+imperium,Adeptus Custodes,contemptor-galatus dreadnaught,Bolter,3,3
+imperium,Adeptus Custodes,contemptor-galatus dreadnaught,missile,1,6
+imperium,Adeptus Custodes,coronus grav-carrier,Lascannon,2,14
+imperium,Adeptus Custodes,coronus grav-carrier,melta,2,16
+imperium,Adeptus Custodes,coronus grav-carrier,plasma,4,8
+imperium,Adeptus Custodes,coronus grav-carrier,Bolter,5,5
+imperium,Adeptus Custodes,coronus grav-carrier,missile,2,12
+imperium,Adeptus Custodes,orion assulat dropship,Lascannon,3,21
+imperium,Adeptus Custodes,orion assulat dropship,melta,3,24
+imperium,Adeptus Custodes,orion assulat dropship,plasma,2,4
+imperium,Adeptus Custodes,orion assulat dropship,Bolter,5,5
+imperium,Adeptus Custodes,orion assulat dropship,missile,3,18
+imperium,Adeptus Custodes,pallas grav-attack,Lascannon,3,21
+imperium,Adeptus Custodes,pallas grav-attack,melta,2,16
+imperium,Adeptus Custodes,pallas grav-attack,plasma,5,10
+imperium,Adeptus Custodes,pallas grav-attack,Bolter,7,7
+imperium,Adeptus Custodes,pallas grav-attack,missile,1,6
+imperium,Adeptus Custodes,telemon heavy dreadnought,Lascannon,4,28
+imperium,Adeptus Custodes,telemon heavy dreadnought,melta,1,8
+imperium,Adeptus Custodes,telemon heavy dreadnought,plasma,6,12
+imperium,Adeptus Custodes,telemon heavy dreadnought,Bolter,5,5
+imperium,Adeptus Custodes,telemon heavy dreadnought,missile,1,6
+imperium,Adeptus Mechanicus,Belisarius Cawl,Lascannon,1,7
+imperium,Adeptus Mechanicus,Belisarius Cawl,melta,1,8
+imperium,Adeptus Mechanicus,Belisarius Cawl,plasma,2,4
+imperium,Adeptus Mechanicus,Belisarius Cawl,Bolter,1,1
+imperium,Adeptus Mechanicus,Belisarius Cawl,missile,2,12
+imperium,Adeptus Mechanicus,skorpius dunerider,Lascannon,0,0
+imperium,Adeptus Mechanicus,skorpius dunerider,melta,0,0
+imperium,Adeptus Mechanicus,skorpius dunerider,plasma,0,0
+imperium,Adeptus Mechanicus,skorpius dunerider,Bolter,3,3
+imperium,Adeptus Mechanicus,skorpius dunerider,missile,0,0
+imperium,Adeptus Mechanicus,Archaeoptere fusilave,Lascannon,0,0
+imperium,Adeptus Mechanicus,Archaeoptere fusilave,melta,0,0
+imperium,Adeptus Mechanicus,Archaeoptere fusilave,plasma,0,0
+imperium,Adeptus Mechanicus,Archaeoptere fusilave,Bolter,1,1
+imperium,Adeptus Mechanicus,Archaeoptere fusilave,missile,0,0
+imperium,Adeptus Mechanicus,archaeopter stratoraptor,Lascannon,0,0
+imperium,Adeptus Mechanicus,archaeopter stratoraptor,melta,0,0
+imperium,Adeptus Mechanicus,archaeopter stratoraptor,plasma,0,0
+imperium,Adeptus Mechanicus,archaeopter stratoraptor,Bolter,1,1
+imperium,Adeptus Mechanicus,archaeopter stratoraptor,missile,0,0
+imperium,Adeptus Mechanicus,archaeopter transvector,Lascannon,0,0
+imperium,Adeptus Mechanicus,archaeopter transvector,melta,0,0
+imperium,Adeptus Mechanicus,archaeopter transvector,plasma,0,0
+imperium,Adeptus Mechanicus,archaeopter transvector,Bolter,2,2
+imperium,Adeptus Mechanicus,archaeopter transvector,missile,0,0
+imperium,Adeptus Mechanicus,Ironstrider Ballistarii,Lascannon,1,7
+imperium,Adeptus Mechanicus,Ironstrider Ballistarii,melta,2,16
+imperium,Adeptus Mechanicus,Ironstrider Ballistarii,plasma,4,8
+imperium,Adeptus Mechanicus,Ironstrider Ballistarii,Bolter,4,4
+imperium,Adeptus Mechanicus,Ironstrider Ballistarii,missile,0,0
+imperium,Adeptus Mechanicus,kastelan robots,Lascannon,1,7
+imperium,Adeptus Mechanicus,kastelan robots,melta,1,8
+imperium,Adeptus Mechanicus,kastelan robots,plasma,4,8
+imperium,Adeptus Mechanicus,kastelan robots,Bolter,3,3
+imperium,Adeptus Mechanicus,kastelan robots,missile,5,30
+imperium,Adeptus Mechanicus,onager dunecrawler,Lascannon,0,0
+imperium,Adeptus Mechanicus,onager dunecrawler,melta,2,16
+imperium,Adeptus Mechanicus,onager dunecrawler,plasma,3,6
+imperium,Adeptus Mechanicus,onager dunecrawler,Bolter,4,4
+imperium,Adeptus Mechanicus,onager dunecrawler,missile,0,0
+imperium,Adeptus Mechanicus,Skorpius Disintegrator,Lascannon,0,0
+imperium,Adeptus Mechanicus,Skorpius Disintegrator,melta,0,0
+imperium,Adeptus Mechanicus,Skorpius Disintegrator,plasma,0,0
+imperium,Adeptus Mechanicus,Skorpius Disintegrator,Bolter,1,1
+imperium,Adeptus Mechanicus,Skorpius Disintegrator,missile,0,0
+imperium,Adeptus Mechanicus,Sydonian Dragoons with radium jezzails,Lascannon,4,28
+imperium,Adeptus Mechanicus,Sydonian Dragoons with radium jezzails,melta,4,32
+imperium,Adeptus Mechanicus,Sydonian Dragoons with radium jezzails,plasma,5,10
+imperium,Adeptus Mechanicus,Sydonian Dragoons with radium jezzails,Bolter,4,4
+imperium,Adeptus Mechanicus,Sydonian Dragoons with radium jezzails,missile,3,18
+imperium,Adeptus Mechanicus,sydonian dragoons with tasers lances,Lascannon,2,14
+imperium,Adeptus Mechanicus,sydonian dragoons with tasers lances,melta,3,24
+imperium,Adeptus Mechanicus,sydonian dragoons with tasers lances,plasma,4,8
+imperium,Adeptus Mechanicus,sydonian dragoons with tasers lances,Bolter,9,9
+imperium,Adeptus Mechanicus,sydonian dragoons with tasers lances,missile,4,24
+imperium,Adeptus Titanicus,Reaver Titan,Lascannon,2,14
+imperium,Adeptus Titanicus,Reaver Titan,melta,2,16
+imperium,Adeptus Titanicus,Reaver Titan,plasma,4,8
+imperium,Adeptus Titanicus,Reaver Titan,Bolter,3,3
+imperium,Adeptus Titanicus,Reaver Titan,missile,2,12
+imperium,Adeptus Titanicus,Warbringer Nemesis Titan,Lascannon,2,14
+imperium,Adeptus Titanicus,Warbringer Nemesis Titan,melta,1,8
+imperium,Adeptus Titanicus,Warbringer Nemesis Titan,plasma,3,6
+imperium,Adeptus Titanicus,Warbringer Nemesis Titan,Bolter,6,6
+imperium,Adeptus Titanicus,Warbringer Nemesis Titan,missile,4,24
+imperium,Adeptus Titanicus,Warhound Titan,Lascannon,1,7
+imperium,Adeptus Titanicus,Warhound Titan,melta,2,16
+imperium,Adeptus Titanicus,Warhound Titan,plasma,7,14
+imperium,Adeptus Titanicus,Warhound Titan,Bolter,6,6
+imperium,Adeptus Titanicus,Warhound Titan,missile,2,12
+imperium,Adeptus Titanicus,Warlord Titan,Lascannon,3,21
+imperium,Adeptus Titanicus,Warlord Titan,melta,2,16
+imperium,Adeptus Titanicus,Warlord Titan,plasma,8,16
+imperium,Adeptus Titanicus,Warlord Titan,Bolter,2,2
+imperium,Adeptus Titanicus,Warlord Titan,missile,2,12
+imperium,Agents of the Imperium,Inquisitor Karamazov,Lascannon,3,21
+imperium,Agents of the Imperium,Inquisitor Karamazov,melta,2,16
+imperium,Agents of the Imperium,Inquisitor Karamazov,plasma,3,6
+imperium,Agents of the Imperium,Inquisitor Karamazov,Bolter,3,3
+imperium,Agents of the Imperium,Inquisitor Karamazov,missile,4,24
+imperium,Astra Militarum,tank commander,Lascannon,0,0
+imperium,Astra Militarum,tank commander,melta,0,0
+imperium,Astra Militarum,tank commander,plasma,0,0
+imperium,Astra Militarum,tank commander,Bolter,0,0
+imperium,Astra Militarum,tank commander,missile,0,0
+imperium,Astra Militarum,chimera,Lascannon,0,0
+imperium,Astra Militarum,chimera,melta,0,0
+imperium,Astra Militarum,chimera,plasma,0,0
+imperium,Astra Militarum,chimera,Bolter,3,3
+imperium,Astra Militarum,chimera,missile,0,0
+imperium,Astra Militarum,taurox,Lascannon,0,0
+imperium,Astra Militarum,taurox,melta,0,0
+imperium,Astra Militarum,taurox,plasma,0,0
+imperium,Astra Militarum,taurox,Bolter,1,1
+imperium,Astra Militarum,taurox,missile,0,0
+imperium,Astra Militarum,taurox prime,Lascannon,0,0
+imperium,Astra Militarum,taurox prime,melta,0,0
+imperium,Astra Militarum,taurox prime,plasma,0,0
+imperium,Astra Militarum,taurox prime,Bolter,1,1
+imperium,Astra Militarum,taurox prime,missile,0,0
+imperium,Astra Militarum,armored sentinels,Lascannon,0,0
+imperium,Astra Militarum,armored sentinels,melta,0,0
+imperium,Astra Militarum,armored sentinels,plasma,0,0
+imperium,Astra Militarum,armored sentinels,Bolter,0,0
+imperium,Astra Militarum,armored sentinels,missile,0,0
+imperium,Astra Militarum,baneblade,Lascannon,0,0
+imperium,Astra Militarum,baneblade,melta,0,0
+imperium,Astra Militarum,baneblade,plasma,0,0
+imperium,Astra Militarum,baneblade,Bolter,0,0
+imperium,Astra Militarum,baneblade,missile,0,0
+imperium,Astra Militarum,banehammer,Lascannon,0,0
+imperium,Astra Militarum,banehammer,melta,0,0
+imperium,Astra Militarum,banehammer,plasma,0,0
+imperium,Astra Militarum,banehammer,Bolter,1,1
+imperium,Astra Militarum,banehammer,missile,0,0
+imperium,Astra Militarum,banesword,Lascannon,0,0
+imperium,Astra Militarum,banesword,melta,0,0
+imperium,Astra Militarum,banesword,plasma,0,0
+imperium,Astra Militarum,banesword,Bolter,2,2
+imperium,Astra Militarum,banesword,missile,0,0
+imperium,Astra Militarum,basilisk,Lascannon,0,0
+imperium,Astra Militarum,basilisk,melta,0,0
+imperium,Astra Militarum,basilisk,plasma,0,0
+imperium,Astra Militarum,basilisk,Bolter,4,4
+imperium,Astra Militarum,basilisk,missile,0,0
+imperium,Astra Militarum,deathstrike,Lascannon,0,0
+imperium,Astra Militarum,deathstrike,melta,0,0
+imperium,Astra Militarum,deathstrike,plasma,0,0
+imperium,Astra Militarum,deathstrike,Bolter,1,1
+imperium,Astra Militarum,deathstrike,missile,0,0
+imperium,Astra Militarum,doomhammer,Lascannon,0,0
+imperium,Astra Militarum,doomhammer,melta,0,0
+imperium,Astra Militarum,doomhammer,plasma,0,0
+imperium,Astra Militarum,doomhammer,Bolter,1,1
+imperium,Astra Militarum,doomhammer,missile,0,0
+imperium,Astra Militarum,hellhammer,Lascannon,0,0
+imperium,Astra Militarum,hellhammer,melta,0,0
+imperium,Astra Militarum,hellhammer,plasma,0,0
+imperium,Astra Militarum,hellhammer,Bolter,2,2
+imperium,Astra Militarum,hellhammer,missile,0,0
+imperium,Astra Militarum,hellhound,Lascannon,0,0
+imperium,Astra Militarum,hellhound,melta,0,0
+imperium,Astra Militarum,hellhound,plasma,0,0
+imperium,Astra Militarum,hellhound,Bolter,2,2
+imperium,Astra Militarum,hellhound,missile,0,0
+imperium,Astra Militarum,hydra,Lascannon,0,0
+imperium,Astra Militarum,hydra,melta,0,0
+imperium,Astra Militarum,hydra,plasma,0,0
+imperium,Astra Militarum,hydra,Bolter,5,5
+imperium,Astra Militarum,hydra,missile,0,0
+imperium,Astra Militarum,leman russ battle tank,Lascannon,0,0
+imperium,Astra Militarum,leman russ battle tank,melta,0,0
+imperium,Astra Militarum,leman russ battle tank,plasma,0,0
+imperium,Astra Militarum,leman russ battle tank,Bolter,2,2
+imperium,Astra Militarum,leman russ battle tank,missile,0,0
+imperium,Astra Militarum,leman russ demolisher,Lascannon,0,0
+imperium,Astra Militarum,leman russ demolisher,melta,0,0
+imperium,Astra Militarum,leman russ demolisher,plasma,0,0
+imperium,Astra Militarum,leman russ demolisher,Bolter,3,3
+imperium,Astra Militarum,leman russ demolisher,missile,0,0
+imperium,Astra Militarum,leman russ eradicator,Lascannon,0,0
+imperium,Astra Militarum,leman russ eradicator,melta,0,0
+imperium,Astra Militarum,leman russ eradicator,plasma,0,0
+imperium,Astra Militarum,leman russ eradicator,Bolter,1,1
+imperium,Astra Militarum,leman russ eradicator,missile,0,0
+imperium,Astra Militarum,leman russ exterminator,Lascannon,0,0
+imperium,Astra Militarum,leman russ exterminator,melta,0,0
+imperium,Astra Militarum,leman russ exterminator,plasma,0,0
+imperium,Astra Militarum,leman russ exterminator,Bolter,0,0
+imperium,Astra Militarum,leman russ exterminator,missile,0,0
+imperium,Astra Militarum,leman russ punisher,Lascannon,0,0
+imperium,Astra Militarum,leman russ punisher,melta,0,0
+imperium,Astra Militarum,leman russ punisher,plasma,0,0
+imperium,Astra Militarum,leman russ punisher,Bolter,0,0
+imperium,Astra Militarum,leman russ punisher,missile,0,0
+imperium,Astra Militarum,leman russ vanquisher,Lascannon,0,0
+imperium,Astra Militarum,leman russ vanquisher,melta,0,0
+imperium,Astra Militarum,leman russ vanquisher,plasma,0,0
+imperium,Astra Militarum,leman russ vanquisher,Bolter,2,2
+imperium,Astra Militarum,leman russ vanquisher,missile,0,0
+imperium,Astra Militarum,manticore,Lascannon,0,0
+imperium,Astra Militarum,manticore,melta,0,0
+imperium,Astra Militarum,manticore,plasma,0,0
+imperium,Astra Militarum,manticore,Bolter,0,0
+imperium,Astra Militarum,manticore,missile,0,0
+imperium,Astra Militarum,rogal dorn battle tank,Lascannon,0,0
+imperium,Astra Militarum,rogal dorn battle tank,melta,0,0
+imperium,Astra Militarum,rogal dorn battle tank,plasma,0,0
+imperium,Astra Militarum,rogal dorn battle tank,Bolter,0,0
+imperium,Astra Militarum,rogal dorn battle tank,missile,0,0
+imperium,Astra Militarum,scout sentinels,Lascannon,0,0
+imperium,Astra Militarum,scout sentinels,melta,0,0
+imperium,Astra Militarum,scout sentinels,plasma,0,0
+imperium,Astra Militarum,scout sentinels,Bolter,3,3
+imperium,Astra Militarum,scout sentinels,missile,0,0
+imperium,Astra Militarum,shadowsword,Lascannon,0,0
+imperium,Astra Militarum,shadowsword,melta,0,0
+imperium,Astra Militarum,shadowsword,plasma,0,0
+imperium,Astra Militarum,shadowsword,Bolter,0,0
+imperium,Astra Militarum,shadowsword,missile,0,0
+imperium,Astra Militarum,stormlord,Lascannon,0,0
+imperium,Astra Militarum,stormlord,melta,0,0
+imperium,Astra Militarum,stormlord,plasma,0,0
+imperium,Astra Militarum,stormlord,Bolter,2,2
+imperium,Astra Militarum,stormlord,missile,0,0
+imperium,Astra Militarum,stormsword,Lascannon,0,0
+imperium,Astra Militarum,stormsword,melta,0,0
+imperium,Astra Militarum,stormsword,plasma,0,0
+imperium,Astra Militarum,stormsword,Bolter,0,0
+imperium,Astra Militarum,stormsword,missile,0,0
+imperium,Astra Militarum,Valkyrie,Lascannon,0,0
+imperium,Astra Militarum,Valkyrie,melta,0,0
+imperium,Astra Militarum,Valkyrie,plasma,0,0
+imperium,Astra Militarum,Valkyrie,Bolter,0,0
+imperium,Astra Militarum,Valkyrie,missile,0,0
+imperium,Astra Militarum,avenger strike fighter,Lascannon,0,0
+imperium,Astra Militarum,avenger strike fighter,melta,0,0
+imperium,Astra Militarum,avenger strike fighter,plasma,0,0
+imperium,Astra Militarum,avenger strike fighter,Bolter,3,3
+imperium,Astra Militarum,avenger strike fighter,missile,0,0
+imperium,Astra Militarum,carnodon,Lascannon,0,0
+imperium,Astra Militarum,carnodon,melta,0,0
+imperium,Astra Militarum,carnodon,plasma,0,0
+imperium,Astra Militarum,carnodon,Bolter,2,2
+imperium,Astra Militarum,carnodon,missile,0,0
+imperium,Astra Militarum,colossus,Lascannon,0,0
+imperium,Astra Militarum,colossus,melta,0,0
+imperium,Astra Militarum,colossus,plasma,0,0
+imperium,Astra Militarum,colossus,Bolter,0,0
+imperium,Astra Militarum,colossus,missile,0,0
+imperium,Astra Militarum,crassus,Lascannon,0,0
+imperium,Astra Militarum,crassus,melta,0,0
+imperium,Astra Militarum,crassus,plasma,0,0
+imperium,Astra Militarum,crassus,Bolter,2,2
+imperium,Astra Militarum,crassus,missile,0,0
+imperium,Astra Militarum,cyclops demolition vehicle,Lascannon,0,0
+imperium,Astra Militarum,cyclops demolition vehicle,melta,0,0
+imperium,Astra Militarum,cyclops demolition vehicle,plasma,0,0
+imperium,Astra Militarum,cyclops demolition vehicle,Bolter,1,1
+imperium,Astra Militarum,cyclops demolition vehicle,missile,0,0
+imperium,Astra Militarum,hades breaching drill,Lascannon,0,0
+imperium,Astra Militarum,hades breaching drill,melta,0,0
+imperium,Astra Militarum,hades breaching drill,plasma,0,0
+imperium,Astra Militarum,hades breaching drill,Bolter,1,1
+imperium,Astra Militarum,hades breaching drill,missile,0,0
+imperium,Astra Militarum,macharius,Lascannon,0,0
+imperium,Astra Militarum,macharius,melta,0,0
+imperium,Astra Militarum,macharius,plasma,0,0
+imperium,Astra Militarum,macharius,Bolter,1,1
+imperium,Astra Militarum,macharius,missile,0,0
+imperium,Astra Militarum,macharius vanquisher,Lascannon,0,0
+imperium,Astra Militarum,macharius vanquisher,melta,0,0
+imperium,Astra Militarum,macharius vanquisher,plasma,0,0
+imperium,Astra Militarum,macharius vanquisher,Bolter,0,0
+imperium,Astra Militarum,macharius vanquisher,missile,0,0
+imperium,Astra Militarum,macharius vulcan,Lascannon,0,0
+imperium,Astra Militarum,macharius vulcan,melta,0,0
+imperium,Astra Militarum,macharius vulcan,plasma,0,0
+imperium,Astra Militarum,macharius vulcan,Bolter,1,1
+imperium,Astra Militarum,macharius vulcan,missile,0,0
+imperium,Astra Militarum,malcador,Lascannon,0,0
+imperium,Astra Militarum,malcador,melta,0,0
+imperium,Astra Militarum,malcador,plasma,0,0
+imperium,Astra Militarum,malcador,Bolter,1,1
+imperium,Astra Militarum,malcador,missile,0,0
+imperium,Astra Militarum,malcador annihilator,Lascannon,0,0
+imperium,Astra Militarum,malcador annihilator,melta,0,0
+imperium,Astra Militarum,malcador annihilator,plasma,0,0
+imperium,Astra Militarum,malcador annihilator,Bolter,0,0
+imperium,Astra Militarum,malcador annihilator,missile,0,0
+imperium,Astra Militarum,malcador defender,Lascannon,0,0
+imperium,Astra Militarum,malcador defender,melta,0,0
+imperium,Astra Militarum,malcador defender,plasma,0,0
+imperium,Astra Militarum,malcador defender,Bolter,1,1
+imperium,Astra Militarum,malcador defender,missile,0,0
+imperium,Astra Militarum,malcador infernus,Lascannon,0,0
+imperium,Astra Militarum,malcador infernus,melta,0,0
+imperium,Astra Militarum,malcador infernus,plasma,0,0
+imperium,Astra Militarum,malcador infernus,Bolter,1,1
+imperium,Astra Militarum,malcador infernus,missile,0,0
+imperium,Astra Militarum,marauder bomber,Lascannon,0,0
+imperium,Astra Militarum,marauder bomber,melta,0,0
+imperium,Astra Militarum,marauder bomber,plasma,0,0
+imperium,Astra Militarum,marauder bomber,Bolter,1,1
+imperium,Astra Militarum,marauder bomber,missile,0,0
+imperium,Astra Militarum,marauder destroyer,Lascannon,0,0
+imperium,Astra Militarum,marauder destroyer,melta,0,0
+imperium,Astra Militarum,marauder destroyer,plasma,0,0
+imperium,Astra Militarum,marauder destroyer,Bolter,1,1
+imperium,Astra Militarum,marauder destroyer,missile,0,0
+imperium,Astra Militarum,praetor,Lascannon,0,0
+imperium,Astra Militarum,praetor,melta,0,0
+imperium,Astra Militarum,praetor,plasma,0,0
+imperium,Astra Militarum,praetor,Bolter,4,4
+imperium,Astra Militarum,praetor,missile,0,0
+imperium,Astra Militarum,tarantula battery,Lascannon,0,0
+imperium,Astra Militarum,tarantula battery,melta,0,0
+imperium,Astra Militarum,tarantula battery,plasma,0,0
+imperium,Astra Militarum,tarantula battery,Bolter,1,1
+imperium,Astra Militarum,tarantula battery,missile,0,0
+imperium,Astra Militarum,thunderbolt heavy fighter,Lascannon,0,0
+imperium,Astra Militarum,thunderbolt heavy fighter,melta,0,0
+imperium,Astra Militarum,thunderbolt heavy fighter,plasma,0,0
+imperium,Astra Militarum,thunderbolt heavy fighter,Bolter,1,1
+imperium,Astra Militarum,thunderbolt heavy fighter,missile,0,0
+imperium,Astra Militarum,trojan support vehicle,Lascannon,0,0
+imperium,Astra Militarum,trojan support vehicle,melta,0,0
+imperium,Astra Militarum,trojan support vehicle,plasma,0,0
+imperium,Astra Militarum,trojan support vehicle,Bolter,3,3
+imperium,Astra Militarum,trojan support vehicle,missile,0,0
+imperium,Astra Militarum,valdor,Lascannon,0,0
+imperium,Astra Militarum,valdor,melta,0,0
+imperium,Astra Militarum,valdor,plasma,0,0
+imperium,Astra Militarum,valdor,Bolter,0,0
+imperium,Astra Militarum,valdor,missile,0,0
+imperium,Astra Militarum,voss-pattern lightning,Lascannon,0,0
+imperium,Astra Militarum,voss-pattern lightning,melta,0,0
+imperium,Astra Militarum,voss-pattern lightning,plasma,0,0
+imperium,Astra Militarum,voss-pattern lightning,Bolter,2,2
+imperium,Astra Militarum,voss-pattern lightning,missile,0,0
+imperium,Astra Militarum,vulture gunship,Lascannon,0,0
+imperium,Astra Militarum,vulture gunship,melta,0,0
+imperium,Astra Militarum,vulture gunship,plasma,0,0
+imperium,Astra Militarum,vulture gunship,Bolter,0,0
+imperium,Astra Militarum,vulture gunship,missile,0,0
+imperium,Grey Knights,Grand Master in Nemesis Dreadknight,Lascannon,2,14
+imperium,Grey Knights,Grand Master in Nemesis Dreadknight,melta,1,8
+imperium,Grey Knights,Grand Master in Nemesis Dreadknight,plasma,6,12
+imperium,Grey Knights,Grand Master in Nemesis Dreadknight,Bolter,3,3
+imperium,Grey Knights,Grand Master in Nemesis Dreadknight,missile,2,12
+imperium,Grey Knights,Grey Knight Razorback,Lascannon,0,0
+imperium,Grey Knights,Grey Knight Razorback,melta,0,0
+imperium,Grey Knights,Grey Knight Razorback,plasma,0,0
+imperium,Grey Knights,Grey Knight Razorback,Bolter,0,0
+imperium,Grey Knights,Grey Knight Razorback,missile,0,0
+imperium,Grey Knights,Grey Knights Rhino,Lascannon,0,0
+imperium,Grey Knights,Grey Knights Rhino,melta,0,0
+imperium,Grey Knights,Grey Knights Rhino,plasma,0,0
+imperium,Grey Knights,Grey Knights Rhino,Bolter,4,4
+imperium,Grey Knights,Grey Knights Rhino,missile,0,0
+imperium,Grey Knights,Grey Knights Land Raider,Lascannon,0,0
+imperium,Grey Knights,Grey Knights Land Raider,melta,0,0
+imperium,Grey Knights,Grey Knights Land Raider,plasma,0,0
+imperium,Grey Knights,Grey Knights Land Raider,Bolter,0,0
+imperium,Grey Knights,Grey Knights Land Raider,missile,0,0
+imperium,Grey Knights,Grey Knights Land Rider Crusdaer,Lascannon,0,0
+imperium,Grey Knights,Grey Knights Land Rider Crusdaer,melta,0,0
+imperium,Grey Knights,Grey Knights Land Rider Crusdaer,plasma,0,0
+imperium,Grey Knights,Grey Knights Land Rider Crusdaer,Bolter,0,0
+imperium,Grey Knights,Grey Knights Land Rider Crusdaer,missile,0,0
+imperium,Grey Knights,Grey Knights Land Raider Redeemer,Lascannon,0,0
+imperium,Grey Knights,Grey Knights Land Raider Redeemer,melta,0,0
+imperium,Grey Knights,Grey Knights Land Raider Redeemer,plasma,0,0
+imperium,Grey Knights,Grey Knights Land Raider Redeemer,Bolter,1,1
+imperium,Grey Knights,Grey Knights Land Raider Redeemer,missile,0,0
+imperium,Grey Knights,Grey Knights Stormhawk Interceptor,Lascannon,0,0
+imperium,Grey Knights,Grey Knights Stormhawk Interceptor,melta,0,0
+imperium,Grey Knights,Grey Knights Stormhawk Interceptor,plasma,0,0
+imperium,Grey Knights,Grey Knights Stormhawk Interceptor,Bolter,0,0
+imperium,Grey Knights,Grey Knights Stormhawk Interceptor,missile,0,0
+imperium,Grey Knights,Grey Knight Stormraven gunship,Lascannon,0,0
+imperium,Grey Knights,Grey Knight Stormraven gunship,melta,0,0
+imperium,Grey Knights,Grey Knight Stormraven gunship,plasma,0,0
+imperium,Grey Knights,Grey Knight Stormraven gunship,Bolter,0,0
+imperium,Grey Knights,Grey Knight Stormraven gunship,missile,0,0
+imperium,Grey Knights,grey knight stormtalon gunship,Lascannon,0,0
+imperium,Grey Knights,grey knight stormtalon gunship,melta,0,0
+imperium,Grey Knights,grey knight stormtalon gunship,plasma,0,0
+imperium,Grey Knights,grey knight stormtalon gunship,Bolter,3,3
+imperium,Grey Knights,grey knight stormtalon gunship,missile,0,0
+imperium,Grey Knights,grey knights venerable dreadnought,Lascannon,0,0
+imperium,Grey Knights,grey knights venerable dreadnought,melta,0,0
+imperium,Grey Knights,grey knights venerable dreadnought,plasma,0,0
+imperium,Grey Knights,grey knights venerable dreadnought,Bolter,1,1
+imperium,Grey Knights,grey knights venerable dreadnought,missile,0,0
+imperium,Grey Knights,nemesis dreadknight,Lascannon,2,14
+imperium,Grey Knights,nemesis dreadknight,melta,0,0
+imperium,Grey Knights,nemesis dreadknight,plasma,3,6
+imperium,Grey Knights,nemesis dreadknight,Bolter,4,4
+imperium,Grey Knights,nemesis dreadknight,missile,1,6
+imperium,Grey Knights,grey knights thunderhawk gunship,Lascannon,0,0
+imperium,Grey Knights,grey knights thunderhawk gunship,melta,0,0
+imperium,Grey Knights,grey knights thunderhawk gunship,plasma,0,0
+imperium,Grey Knights,grey knights thunderhawk gunship,Bolter,0,0
+imperium,Grey Knights,grey knights thunderhawk gunship,missile,0,0
+imperium,Grey Knights,land raider banisher,Lascannon,0,0
+imperium,Grey Knights,land raider banisher,melta,0,0
+imperium,Grey Knights,land raider banisher,plasma,0,0
+imperium,Grey Knights,land raider banisher,Bolter,1,1
+imperium,Grey Knights,land raider banisher,missile,0,0
+imperium,Imperial Knights,Canis Rex,Lascannon,1,7
+imperium,Imperial Knights,Canis Rex,melta,1,8
+imperium,Imperial Knights,Canis Rex,plasma,3,6
+imperium,Imperial Knights,Canis Rex,Bolter,4,4
+imperium,Imperial Knights,Canis Rex,missile,2,12
+imperium,Imperial Knights,Knight Castellan,Lascannon,1,7
+imperium,Imperial Knights,Knight Castellan,melta,3,24
+imperium,Imperial Knights,Knight Castellan,plasma,4,8
+imperium,Imperial Knights,Knight Castellan,Bolter,6,6
+imperium,Imperial Knights,Knight Castellan,missile,4,24
+imperium,Imperial Knights,Knight crusader,Lascannon,0,0
+imperium,Imperial Knights,Knight crusader,melta,2,16
+imperium,Imperial Knights,Knight crusader,plasma,5,10
+imperium,Imperial Knights,Knight crusader,Bolter,7,7
+imperium,Imperial Knights,Knight crusader,missile,4,24
+imperium,Imperial Knights,knight errant,Lascannon,1,7
+imperium,Imperial Knights,knight errant,melta,2,16
+imperium,Imperial Knights,knight errant,plasma,5,10
+imperium,Imperial Knights,knight errant,Bolter,3,3
+imperium,Imperial Knights,knight errant,missile,3,18
+imperium,Imperial Knights,knight gallant,Lascannon,1,7
+imperium,Imperial Knights,knight gallant,melta,1,8
+imperium,Imperial Knights,knight gallant,plasma,8,16
+imperium,Imperial Knights,knight gallant,Bolter,2,2
+imperium,Imperial Knights,knight gallant,missile,2,12
+imperium,Imperial Knights,knight paladin,Lascannon,1,7
+imperium,Imperial Knights,knight paladin,melta,0,0
+imperium,Imperial Knights,knight paladin,plasma,3,6
+imperium,Imperial Knights,knight paladin,Bolter,4,4
+imperium,Imperial Knights,knight paladin,missile,2,12
+imperium,Imperial Knights,knigh preceptor ,Lascannon,2,14
+imperium,Imperial Knights,knigh preceptor ,melta,3,24
+imperium,Imperial Knights,knigh preceptor ,plasma,3,6
+imperium,Imperial Knights,knigh preceptor ,Bolter,3,3
+imperium,Imperial Knights,knigh preceptor ,missile,2,12
+imperium,Imperial Knights,knight valient ,Lascannon,2,14
+imperium,Imperial Knights,knight valient ,melta,3,24
+imperium,Imperial Knights,knight valient ,plasma,7,14
+imperium,Imperial Knights,knight valient ,Bolter,5,5
+imperium,Imperial Knights,knight valient ,missile,2,12
+imperium,Imperial Knights,knight warden,Lascannon,2,14
+imperium,Imperial Knights,knight warden,melta,1,8
+imperium,Imperial Knights,knight warden,plasma,7,14
+imperium,Imperial Knights,knight warden,Bolter,7,7
+imperium,Imperial Knights,knight warden,missile,4,24
+imperium,Imperial Knights,cerastus knight acheron,Lascannon,1,7
+imperium,Imperial Knights,cerastus knight acheron,melta,2,16
+imperium,Imperial Knights,cerastus knight acheron,plasma,4,8
+imperium,Imperial Knights,cerastus knight acheron,Bolter,8,8
+imperium,Imperial Knights,cerastus knight acheron,missile,1,6
+imperium,Imperial Knights,cerastus knight atrapos,Lascannon,2,14
+imperium,Imperial Knights,cerastus knight atrapos,melta,4,32
+imperium,Imperial Knights,cerastus knight atrapos,plasma,5,10
+imperium,Imperial Knights,cerastus knight atrapos,Bolter,6,6
+imperium,Imperial Knights,cerastus knight atrapos,missile,3,18
+imperium,Imperial Knights,cerastus knight castigator,Lascannon,3,21
+imperium,Imperial Knights,cerastus knight castigator,melta,4,32
+imperium,Imperial Knights,cerastus knight castigator,plasma,5,10
+imperium,Imperial Knights,cerastus knight castigator,Bolter,4,4
+imperium,Imperial Knights,cerastus knight castigator,missile,1,6
+imperium,Imperial Knights,cerastus knight lancer,Lascannon,2,14
+imperium,Imperial Knights,cerastus knight lancer,melta,1,8
+imperium,Imperial Knights,cerastus knight lancer,plasma,3,6
+imperium,Imperial Knights,cerastus knight lancer,Bolter,3,3
+imperium,Imperial Knights,cerastus knight lancer,missile,2,12
+imperium,Imperial Knights,questoris knght magaera,Lascannon,2,14
+imperium,Imperial Knights,questoris knght magaera,melta,2,16
+imperium,Imperial Knights,questoris knght magaera,plasma,5,10
+imperium,Imperial Knights,questoris knght magaera,Bolter,7,7
+imperium,Imperial Knights,questoris knght magaera,missile,2,12
+imperium,Imperial Knights,questoris knight styrix,Lascannon,3,21
+imperium,Imperial Knights,questoris knight styrix,melta,3,24
+imperium,Imperial Knights,questoris knight styrix,plasma,4,8
+imperium,Imperial Knights,questoris knight styrix,Bolter,3,3
+imperium,Imperial Knights,questoris knight styrix,missile,1,6
+imperium,Imperial Knights,armiger helverin,Lascannon,1,7
+imperium,Imperial Knights,armiger helverin,melta,2,16
+imperium,Imperial Knights,armiger helverin,plasma,4,8
+imperium,Imperial Knights,armiger helverin,Bolter,5,5
+imperium,Imperial Knights,armiger helverin,missile,3,18
+imperium,Imperial Knights,armiger warglave,Lascannon,2,14
+imperium,Imperial Knights,armiger warglave,melta,3,24
+imperium,Imperial Knights,armiger warglave,plasma,3,6
+imperium,Imperial Knights,armiger warglave,Bolter,6,6
+imperium,Imperial Knights,armiger warglave,missile,2,12
+imperium,Imperial Knights,armiger moirax,Lascannon,2,14
+imperium,Imperial Knights,armiger moirax,melta,0,0
+imperium,Imperial Knights,armiger moirax,plasma,5,10
+imperium,Imperial Knights,armiger moirax,Bolter,5,5
+imperium,Imperial Knights,armiger moirax,missile,3,18
+imperium,Imperial Knights,acastus knight asterius,Lascannon,4,28
+imperium,Imperial Knights,acastus knight asterius,melta,3,24
+imperium,Imperial Knights,acastus knight asterius,plasma,5,10
+imperium,Imperial Knights,acastus knight asterius,Bolter,5,5
+imperium,Imperial Knights,acastus knight asterius,missile,2,12
+imperium,Imperial Knights,acastus knight porphyrion,Lascannon,3,21
+imperium,Imperial Knights,acastus knight porphyrion,melta,2,16
+imperium,Imperial Knights,acastus knight porphyrion,plasma,6,12
+imperium,Imperial Knights,acastus knight porphyrion,Bolter,4,4
+imperium,Imperial Knights,acastus knight porphyrion,missile,3,18
+imperium,Space Marines,Impulsor,Lascannon,0,0
+imperium,Space Marines,Impulsor,melta,0,0
+imperium,Space Marines,Impulsor,plasma,0,0
+imperium,Space Marines,Impulsor,Bolter,0,0
+imperium,Space Marines,Impulsor,missile,0,0
+imperium,Space Marines,razorback,Lascannon,0,0
+imperium,Space Marines,razorback,melta,0,0
+imperium,Space Marines,razorback,plasma,0,0
+imperium,Space Marines,razorback,Bolter,3,3
+imperium,Space Marines,razorback,missile,0,0
+imperium,Space Marines,rhino,Lascannon,0,0
+imperium,Space Marines,rhino,melta,0,0
+imperium,Space Marines,rhino,plasma,0,0
+imperium,Space Marines,rhino,Bolter,1,1
+imperium,Space Marines,rhino,missile,0,0
+imperium,Space Marines,hammerfall bunker,Lascannon,0,0
+imperium,Space Marines,hammerfall bunker,melta,0,0
+imperium,Space Marines,hammerfall bunker,plasma,0,0
+imperium,Space Marines,hammerfall bunker,Bolter,2,2
+imperium,Space Marines,hammerfall bunker,missile,0,0
+imperium,Space Marines,ballistus dreadnought,Lascannon,0,0
+imperium,Space Marines,ballistus dreadnought,melta,0,0
+imperium,Space Marines,ballistus dreadnought,plasma,0,0
+imperium,Space Marines,ballistus dreadnought,Bolter,0,0
+imperium,Space Marines,ballistus dreadnought,missile,0,0
+imperium,Space Marines,brutalis dreadnought,Lascannon,0,0
+imperium,Space Marines,brutalis dreadnought,melta,0,0
+imperium,Space Marines,brutalis dreadnought,plasma,0,0
+imperium,Space Marines,brutalis dreadnought,Bolter,0,0
+imperium,Space Marines,brutalis dreadnought,missile,0,0
+imperium,Space Marines,dreadnought,Lascannon,0,0
+imperium,Space Marines,dreadnought,melta,0,0
+imperium,Space Marines,dreadnought,plasma,0,0
+imperium,Space Marines,dreadnought,Bolter,2,2
+imperium,Space Marines,dreadnought,missile,0,0
+imperium,Space Marines,drop pod,Lascannon,0,0
+imperium,Space Marines,drop pod,melta,0,0
+imperium,Space Marines,drop pod,plasma,0,0
+imperium,Space Marines,drop pod,Bolter,2,2
+imperium,Space Marines,drop pod,missile,0,0
+imperium,Space Marines,firestrike servo-turrets,Lascannon,0,0
+imperium,Space Marines,firestrike servo-turrets,melta,0,0
+imperium,Space Marines,firestrike servo-turrets,plasma,0,0
+imperium,Space Marines,firestrike servo-turrets,Bolter,1,1
+imperium,Space Marines,firestrike servo-turrets,missile,0,0
+imperium,Space Marines,gladiator lancer,Lascannon,0,0
+imperium,Space Marines,gladiator lancer,melta,0,0
+imperium,Space Marines,gladiator lancer,plasma,0,0
+imperium,Space Marines,gladiator lancer,Bolter,2,2
+imperium,Space Marines,gladiator lancer,missile,0,0
+imperium,Space Marines,gladiator reaper,Lascannon,0,0
+imperium,Space Marines,gladiator reaper,melta,0,0
+imperium,Space Marines,gladiator reaper,plasma,0,0
+imperium,Space Marines,gladiator reaper,Bolter,3,3
+imperium,Space Marines,gladiator reaper,missile,0,0
+imperium,Space Marines,gladiator valiant,Lascannon,0,0
+imperium,Space Marines,gladiator valiant,melta,0,0
+imperium,Space Marines,gladiator valiant,plasma,0,0
+imperium,Space Marines,gladiator valiant,Bolter,0,0
+imperium,Space Marines,gladiator valiant,missile,0,0
+imperium,Space Marines,invictor tatical warsuit,Lascannon,0,0
+imperium,Space Marines,invictor tatical warsuit,melta,0,0
+imperium,Space Marines,invictor tatical warsuit,plasma,0,0
+imperium,Space Marines,invictor tatical warsuit,Bolter,3,3
+imperium,Space Marines,invictor tatical warsuit,missile,0,0
+imperium,Space Marines,land raider,Lascannon,0,0
+imperium,Space Marines,land raider,melta,0,0
+imperium,Space Marines,land raider,plasma,0,0
+imperium,Space Marines,land raider,Bolter,0,0
+imperium,Space Marines,land raider,missile,0,0
+imperium,Space Marines,land raider curusader,Lascannon,0,0
+imperium,Space Marines,land raider curusader,melta,0,0
+imperium,Space Marines,land raider curusader,plasma,0,0
+imperium,Space Marines,land raider curusader,Bolter,1,1
+imperium,Space Marines,land raider curusader,missile,0,0
+imperium,Space Marines,land raider redeemer,Lascannon,0,0
+imperium,Space Marines,land raider redeemer,melta,0,0
+imperium,Space Marines,land raider redeemer,plasma,0,0
+imperium,Space Marines,land raider redeemer,Bolter,1,1
+imperium,Space Marines,land raider redeemer,missile,0,0
+imperium,Space Marines,predator annihilator,Lascannon,0,0
+imperium,Space Marines,predator annihilator,melta,0,0
+imperium,Space Marines,predator annihilator,plasma,0,0
+imperium,Space Marines,predator annihilator,Bolter,2,2
+imperium,Space Marines,predator annihilator,missile,0,0
+imperium,Space Marines,predator destructor,Lascannon,0,0
+imperium,Space Marines,predator destructor,melta,0,0
+imperium,Space Marines,predator destructor,plasma,0,0
+imperium,Space Marines,predator destructor,Bolter,3,3
+imperium,Space Marines,predator destructor,missile,0,0
+imperium,Space Marines,redemptor dreadnought,Lascannon,0,0
+imperium,Space Marines,redemptor dreadnought,melta,0,0
+imperium,Space Marines,redemptor dreadnought,plasma,0,0
+imperium,Space Marines,redemptor dreadnought,Bolter,0,0
+imperium,Space Marines,redemptor dreadnought,missile,0,0
+imperium,Space Marines,repulsor,Lascannon,0,0
+imperium,Space Marines,repulsor,melta,0,0
+imperium,Space Marines,repulsor,plasma,0,0
+imperium,Space Marines,repulsor,Bolter,3,3
+imperium,Space Marines,repulsor,missile,0,0
+imperium,Space Marines,repulsor executioner,Lascannon,0,0
+imperium,Space Marines,repulsor executioner,melta,0,0
+imperium,Space Marines,repulsor executioner,plasma,0,0
+imperium,Space Marines,repulsor executioner,Bolter,1,1
+imperium,Space Marines,repulsor executioner,missile,0,0
+imperium,Space Marines,storm speeder hailstrike,Lascannon,0,0
+imperium,Space Marines,storm speeder hailstrike,melta,0,0
+imperium,Space Marines,storm speeder hailstrike,plasma,0,0
+imperium,Space Marines,storm speeder hailstrike,Bolter,2,2
+imperium,Space Marines,storm speeder hailstrike,missile,0,0
+imperium,Space Marines,storm speeder hammerstrike,Lascannon,0,0
+imperium,Space Marines,storm speeder hammerstrike,melta,0,0
+imperium,Space Marines,storm speeder hammerstrike,plasma,0,0
+imperium,Space Marines,storm speeder hammerstrike,Bolter,2,2
+imperium,Space Marines,storm speeder hammerstrike,missile,0,0
+imperium,Space Marines,storm speeder thunderstrike,Lascannon,0,0
+imperium,Space Marines,storm speeder thunderstrike,melta,0,0
+imperium,Space Marines,storm speeder thunderstrike,plasma,0,0
+imperium,Space Marines,storm speeder thunderstrike,Bolter,0,0
+imperium,Space Marines,storm speeder thunderstrike,missile,0,0
+imperium,Space Marines,stormhawk interceptor,Lascannon,0,0
+imperium,Space Marines,stormhawk interceptor,melta,0,0
+imperium,Space Marines,stormhawk interceptor,plasma,0,0
+imperium,Space Marines,stormhawk interceptor,Bolter,2,2
+imperium,Space Marines,stormhawk interceptor,missile,0,0
+imperium,Space Marines,stormraven gunship,Lascannon,0,0
+imperium,Space Marines,stormraven gunship,melta,0,0
+imperium,Space Marines,stormraven gunship,plasma,0,0
+imperium,Space Marines,stormraven gunship,Bolter,5,5
+imperium,Space Marines,stormraven gunship,missile,0,0
+imperium,Space Marines,stormtalon gunship,Lascannon,0,0
+imperium,Space Marines,stormtalon gunship,melta,0,0
+imperium,Space Marines,stormtalon gunship,plasma,0,0
+imperium,Space Marines,stormtalon gunship,Bolter,3,3
+imperium,Space Marines,stormtalon gunship,missile,0,0
+imperium,Space Marines,vindicator,Lascannon,0,0
+imperium,Space Marines,vindicator,melta,0,0
+imperium,Space Marines,vindicator,plasma,0,0
+imperium,Space Marines,vindicator,Bolter,1,1
+imperium,Space Marines,vindicator,missile,0,0
+imperium,Space Marines,whirlwind,Lascannon,0,0
+imperium,Space Marines,whirlwind,melta,0,0
+imperium,Space Marines,whirlwind,plasma,0,0
+imperium,Space Marines,whirlwind,Bolter,2,2
+imperium,Space Marines,whirlwind,missile,0,0
+imperium,Space Marines,astraeus,Lascannon,3,21
+imperium,Space Marines,astraeus,melta,2,16
+imperium,Space Marines,astraeus,plasma,3,6
+imperium,Space Marines,astraeus,Bolter,6,6
+imperium,Space Marines,astraeus,missile,2,12
+imperium,Space Marines,thunderhawk gunship,Lascannon,0,0
+imperium,Space Marines,thunderhawk gunship,melta,0,0
+imperium,Space Marines,thunderhawk gunship,plasma,0,0
+imperium,Space Marines,thunderhawk gunship,Bolter,2,2
+imperium,Space Marines,thunderhawk gunship,missile,0,0

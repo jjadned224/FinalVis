@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warhammer 40k Visualization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .bar {
+            fill: steelblue;
+        }
+        .bar:hover {
+            fill: orange;
+        }
+        .axis-label {
+            font-size: 12px;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <h1>Warhammer 40k Visualization</h1>
+
+    <!-- Dropdown for selecting faction -->
+    <label for="factionSelect">Choose a faction:</label>
+    <select id="factionSelect"></select>
+
+    <!-- Bar chart for units -->
+    <h2>Toughness and Health of Units</h2>
+    <div id="unitChart"></div>
+
+    <!-- Bar chart for weapons -->
+    <h2>Weapon Strength Filtered by Number of Attacks</h2>
+    <div id="weaponChart"></div>
+
+    <!-- Treemap for hits -->
+    <h2>Number of Hits That Penetrate Each Unit</h2>
+    <div id="hitsTreemap"></div>
+
+    <!-- Treemap for damage -->
+    <h2>Average Damage to Each Unit per Weapon</h2>
+    <div id="damageTreemap"></div>
+
+    <!-- Custom map visualization -->
+    <h2>Faction Toughness</h2>
+    <div id="map" style="height: 400px;"></div>
+
+    <script>
+        const unitsData = [
+            {Unit: "Monster1", Allegiance: "Faction1", Health: 10, Toughness: 7},
+            {Unit: "Vehicle1", Allegiance: "Faction1", Health: 12, Toughness: 8},
+            {Unit: "Monster2", Allegiance: "Faction2", Health: 8, Toughness: 6},
+            {Unit: "Vehicle2", Allegiance: "Faction2", Health: 15, Toughness: 9}
+        ];
+
+        const weaponsData = [
+            {Weapon: "Weapon1", Strength: 8, Attacks: 2},
+            {Weapon: "Weapon2", Strength: 10, Attacks: 3},
+            {Weapon: "Weapon3", Strength: 7, Attacks: 1},
+            {Weapon: "Weapon4", Strength: 9, Attacks: 4}
+        ];
+
+        const hitsData = [
+            {Unit: "Monster1", Weapon: "Weapon1", Hits: 3},
+            {Unit: "Vehicle1", Weapon: "Weapon2", Hits: 5},
+            {Unit: "Monster2", Weapon: "Weapon3", Hits: 2},
+            {Unit: "Vehicle2", Weapon: "Weapon4", Hits: 4}
+        ];
+
+        const damageData = [
+            {Unit: "Monster1", Weapon: "Weapon1", Damage: 6},
+            {Unit: "Vehicle1", Weapon: "Weapon2", Damage: 7},
+            {Unit: "Monster2", Weapon: "Weapon3", Damage: 5},
+            {Unit: "Vehicle2", Weapon: "Weapon4", Damage: 8}
+        ];
+
+        const factionData = [
+            {Faction: "Faction1", Toughest_Unit_Health: 12, Toughest_Unit_Toughness: 8},
+            {Faction: "Faction2", Toughest_Unit_Health: 15, Toughest_Unit_Toughness: 9}
+        ];
+
+        // Populate faction dropdown
+        const factions = [...new Set(unitsData.map(d => d.Allegiance))];
+        const factionSelect = d3.select("#factionSelect");
+        factionSelect.selectAll("option")
+            .data(factions)
+            .enter()
+            .append("option")
+            .text(d => d);
+
+        // Draw unit bar chart
+        function drawUnitChart(faction) {
+            const data = unitsData.filter(d => d.Allegiance === faction);
+
+            d3.select("#unitChart").selectAll("*").remove();
+            const svg = d3.select("#unitChart").append("svg").attr("width", 600).attr("height", 400);
+            const margin = {top: 20, right: 20, bottom: 30, left: 40};
+            const width = +svg.attr("width") - margin.left - margin.right;
+            const height = +svg.attr("height") - margin.top - margin.bottom;
+            const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+            const x = d3.scaleBand().rangeRound([0, width]).padding(0.1).domain(data.map(d => d.Unit));
+            const y = d3.scaleLinear().rangeRound([height, 0]).domain([0, d3.max(data, d => d.Toughness)]);
+
+            g.append("g")
+                .attr("class", "axis axis--x")
+                .attr("transform", `translate(0,${height})`)
+                .call(d3.axisBottom(x));
+
+            g.append("g")
+                .attr("class", "axis axis--y")
+                .call(d3.axisLeft(y).ticks(10))
+                .append("text")
+                .attr("class", "axis-label")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 6)
+                .attr("dy", "0.71em")
+                .attr("text-anchor", "end")
+                .text("Toughness");
+
+            g.selectAll(".bar")
+                .data(data)
+                .enter().append("rect")
+                .attr("class", "bar")
+                .attr("x", d => x(d.Unit))
+                .attr("y", d => y(d.Toughness))
+                .attr("width", x.bandwidth())
+                .attr("height", d => height - y(d.Toughness));
+        }
+
+        // Initial draw
+        drawUnitChart(factions[0]);
+
+        // Update chart on faction change
+        factionSelect.on("change", function() {
+            const selectedFaction = d3.select(this).property("value");
+            drawUnitChart(selectedFaction);
+        });
+
+        // Draw weapon bar chart
+        d3.select("#weaponChart").selectAll("*").remove();
+        const weaponSvg = d3.select("#weaponChart").append("svg").attr("width", 600).attr("height", 400);
+        const weaponMargin = {top: 20, right: 20, bottom: 30, left: 40};
+        const weaponWidth = +weaponSvg.attr("width") - weaponMargin.left - weaponMargin.right;
+        const weaponHeight = +weaponSvg.attr("height") - weaponMargin.top - weaponMargin.bottom;
+        const weaponG = weaponSvg.append("g").attr("transform", `translate(${weaponMargin.left},${weaponMargin.top})`);
+
+        const weaponX = d3.scaleBand().rangeRound([0, weaponWidth]).padding(0.1).domain(weaponsData.map(d => d.Weapon));
+        const weaponY = d3.scaleLinear().rangeRound([weaponHeight, 0]).domain([0, d3.max(weaponsData, d => d.Strength)]);
+
+        weaponG.append("g")
+            .attr("class", "axis axis--x")
+            .attr("transform", `translate(0,${weaponHeight})`)
+            .call(d3.axisBottom(weaponX));
+
+        weaponG.append("g")
+            .attr("class", "axis axis--y")
+            .call(d3.axisLeft(weaponY).ticks(10))
+            .append("text")
+            .attr("class", "axis-label")
+            .attr("transform", "rotate(-90)")
+            .attr("y", 6)
+            .attr("dy", "0.71em")
+            .attr("text-anchor", "end")
+            .text("Strength");
+
+        weaponG.selectAll(".bar")
+            .data(weaponsData)
+            .enter().append("rect")
+            .attr("class", "bar")
+            .attr("x", d => weaponX(d.Weapon))
+            .attr("y", d => weaponY(d.Strength))
+            .attr("width", weaponX.bandwidth())
+            .attr("height", d => weaponHeight - weaponY(d.Strength));
+
+        // Treemap for hits
+        const hitsTreemap = d3.select("#hitsTreemap").append("svg").attr("width", 600).attr("height", 400);
+        const hitsTreemapLayout = d3.treemap()
+            .size([600, 400])
+            .padding(1);
+
+        const hitsRoot = d3.hierarchy({values: d3.nest().key(d => d.Unit).entries(hitsData)}, d => d.values)
+            .sum(d => d.Hits)
+            .sort((a, b) => b.Hits - a.Hits);
+
+        hitsTreemapLayout(hitsRoot);
+
+        const hitsNodes = hitsTreemap.selectAll("g")
+            .data(hitsRoot.leaves())
+            .enter().append("g")
+            .attr("transform", d => `translate(${d.x0},${d.y0})`);
+
+        hitsNodes.append("rect")
+            .attr("id", d => d.data.Unit + d.data.Weapon)
+            .attr("width", d => d.x1 - d.x0)
+            .attr("height", d => d.y1 - d.y0)
+            .attr("fill", "steelblue");
+
+        hitsNodes.append("text")
+            .attr("x", 3)
+            .attr("y", 10)
+            .text(d => d.data.Unit);
+
+        // Treemap for damage
+        const damageTreemap = d3.select("#damageTreemap").append("svg").attr("width", 600).attr("height", 400);
+        const damageTreemapLayout = d3.treemap()
+            .size([600, 400])
+            .padding(1);
+
+        const damageRoot = d3.hierarchy({values: d3.nest().key(d => d.Unit).entries(damageData)}, d => d.values)
+            .sum(d => d.Damage)
+            .sort((a, b) => b.Damage - a.Damage);
+
+        damageTreemapLayout(damageRoot);
+
+        const damageNodes = damageTreemap.selectAll("g")
+            .data(damageRoot.leaves())
+            .enter().append("g")
+            .attr("transform", d => `translate(${d.x0},${d.y0})`);
+
+        damageNodes.append("rect")
+            .attr("id", d => d.data.Unit + d.data.Weapon)
+            .attr("width", d => d.x1 - d.x0)
+            .attr("height", d => d.y1 - d.y0)
+            .attr("fill", "steelblue");
+
+        damageNodes.append("text")
+            .attr("x", 3)
+            .attr("y", 10)
+            .text(d => d.data.Unit);
+
+        // Map visualization with Leaflet
+        const map = L.map('map').setView([51.505, -0.09], 2);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        factionData.forEach(faction => {
+            const marker = L.circleMarker([faction.Toughest_Unit_Health, faction.Toughest_Unit_Toughness], {
+                radius: faction.Toughest_Unit_Health / 2,
+                color: faction.Toughest_Unit_Toughness > 8 ? 'red' : 'blue',
+                fillOpacity: 0.8
+            }).addTo(map);
+
+            marker.bindPopup(`<b>Faction:</b> ${faction.Faction}<br><b>Health:</b> ${faction.Toughest_Unit_Health}<br><b>Toughness:</b> ${faction.Toughest_Unit_Toughness}`);
+        });
+
+        const legend = L.control({ position: 'bottomright' });
+
+        legend.onAdd = function(map) {
+            const div = L.DomUtil.create('div', 'info legend');
+            const grades = [0, 8];
+            const colors = ['blue', 'red'];
+
+            for (let i = 0; i < grades.length; i++) {
+                div.innerHTML +=
+                    '<i style="background:' + colors[i] + '"></i> ' +
+                    (grades[i] + 1) + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+            }
+
+            return div;
+        };
+
+        legend.addTo(map);
+    </script>
+</body>
+</html>

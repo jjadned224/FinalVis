@@ -1,0 +1,116 @@
+Faction,Army,Weapon,Shots
+Xenos,Aeldari,Lascannon,1
+Xenos,Aeldari,mela,2
+Xenos,Aeldari,plasma,3
+Xenos,Aeldari,bolter,4
+Xenos,Aeldari,missle,5
+Xenos,Drunkhari,Lascannon,2
+Xenos,Drunkhari,mela,3
+Xenos,Drunkhari,plasma,4
+Xenos,Drunkhari,bolter,5
+Xenos,Drunkhari,missle,6
+Xenos,genestealer cults,Lascannon,3
+Xenos,genestealer cults,mela,4
+Xenos,genestealer cults,plasma,5
+Xenos,genestealer cults,bolter,6
+Xenos,genestealer cults,missle,7
+Xenos,leagues of voltann,Lascannon,4
+Xenos,leagues of voltann,mela,5
+Xenos,leagues of voltann,plasma,6
+Xenos,leagues of voltann,bolter,7
+Xenos,leagues of voltann,missle,8
+Xenos,necrons,Lascannon,5
+Xenos,necrons,mela,6
+Xenos,necrons,plasma,7
+Xenos,necrons,bolter,8
+Xenos,necrons,missle,9
+Xenos,orks,Lascannon,6
+Xenos,orks,mela,7
+Xenos,orks,plasma,8
+Xenos,orks,bolter,9
+Xenos,orks,missle,10
+Xenos,T’au,Lascannon,7
+Xenos,T’au,mela,8
+Xenos,T’au,plasma,9
+Xenos,T’au,bolter,10
+Xenos,T’au,missle,11
+Xenos,Tyranids,Lascannon,8
+Xenos,Tyranids,mela,9
+Xenos,Tyranids,plasma,10
+Xenos,Tyranids,bolter,11
+Xenos,Tyranids,missle,12
+chaos,Chaos Deamons,Lascannon,9
+chaos,Chaos Deamons,mela,10
+chaos,Chaos Deamons,plasma,11
+chaos,Chaos Deamons,bolter,12
+chaos,Chaos Deamons,missle,13
+chaos,Chaos Knights,Lascannon,10
+chaos,Chaos Knights,mela,11
+chaos,Chaos Knights,plasma,12
+chaos,Chaos Knights,bolter,13
+chaos,Chaos Knights,missle,14
+chaos,Chaos Space Marines,Lascannon,11
+chaos,Chaos Space Marines,mela,12
+chaos,Chaos Space Marines,plasma,13
+chaos,Chaos Space Marines,bolter,14
+chaos,Chaos Space Marines,missle,15
+chaos,death guard,Lascannon,12
+chaos,death guard,mela,13
+chaos,death guard,plasma,14
+chaos,death guard,bolter,15
+chaos,death guard,missle,16
+chaos,thousand suns,Lascannon,13
+chaos,thousand suns,mela,14
+chaos,thousand suns,plasma,15
+chaos,thousand suns,bolter,16
+chaos,thousand suns,missle,17
+chaos,world eaters,Lascannon,14
+chaos,world eaters,mela,15
+chaos,world eaters,plasma,16
+chaos,world eaters,bolter,17
+chaos,world eaters,missle,18
+imperium,Adepta Sororitas,Lascannon,15
+imperium,Adepta Sororitas,mela,16
+imperium,Adepta Sororitas,plasma,17
+imperium,Adepta Sororitas,bolter,18
+imperium,Adepta Sororitas,missle,19
+imperium,Adeptus Custodes,Lascannon,16
+imperium,Adeptus Custodes,mela,17
+imperium,Adeptus Custodes,plasma,18
+imperium,Adeptus Custodes,bolter,19
+imperium,Adeptus Custodes,missle,20
+imperium,Adeptus Mechanicus,Lascannon,17
+imperium,Adeptus Mechanicus,mela,18
+imperium,Adeptus Mechanicus,plasma,19
+imperium,Adeptus Mechanicus,bolter,20
+imperium,Adeptus Mechanicus,missle,21
+imperium,Adeptus Titanicus,Lascannon,18
+imperium,Adeptus Titanicus,mela,19
+imperium,Adeptus Titanicus,plasma,20
+imperium,Adeptus Titanicus,bolter,21
+imperium,Adeptus Titanicus,missle,22
+imperium,Agents of the Imperium,Lascannon,19
+imperium,Agents of the Imperium,mela,20
+imperium,Agents of the Imperium,plasma,21
+imperium,Agents of the Imperium,bolter,22
+imperium,Agents of the Imperium,missle,23
+imperium,Astra Militarum,Lascannon,20
+imperium,Astra Militarum,mela,21
+imperium,Astra Militarum,plasma,22
+imperium,Astra Militarum,bolter,23
+imperium,Astra Militarum,missle,24
+imperium,Grey Knights,Lascannon,21
+imperium,Grey Knights,mela,22
+imperium,Grey Knights,plasma,23
+imperium,Grey Knights,bolter,24
+imperium,Grey Knights,missle,25
+imperium,Imperial Knights,Lascannon,22
+imperium,Imperial Knights,mela,23
+imperium,Imperial Knights,plasma,24
+imperium,Imperial Knights,bolter,25
+imperium,Imperial Knights,missle,26
+imperium,Space Marines,Lascannon,23
+imperium,Space Marines,mela,24
+imperium,Space Marines,plasma,25
+imperium,Space Marines,bolter,26
+imperium,Space Marines,missle,27
