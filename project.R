@@ -5,9 +5,6 @@ library(treemapify)
 library(plotly)
 library(tidyr)
 
-# Assuming data files are correctly placed or full paths are provided
-# Replace with full paths or adjust based on your file structure
-
 ui <- fluidPage(
   tags$h2("Warhammer 40k Toughness Analysis"),
   
